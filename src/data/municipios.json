@@ -1,0 +1,752 @@
+[
+  {
+    "slug": "sabadell",
+    "nombre": "Sabadell",
+    "comarca": "Vallès Occidental",
+    "poblacion": "216.000 habitantes",
+    "cp": "08201–08208",
+    "datoLocal": "Con más de 12.000 comercios activos, Sabadell es un mercado con alta demanda digital. Capital del Vallès Occidental, combina tradición industrial con un tejido comercial vibrante que necesita presencia online.",
+    "negociosTipicos": "restaurantes, tiendas de moda, talleres mecánicos, clínicas dentales",
+    "distanciaBcn": "a solo 25 minutos de Barcelona",
+    "municipiosCercanos": ["terrassa", "barbera-del-valles", "castellar-del-valles", "sant-cugat-del-valles"],
+    "excusaLocal": "En Sabadell hay más de 12.000 comercios. ¿Cuántos crees que ya tienen web? No te quedes atrás.",
+    "historia": "Sabadell fue el motor textil de Cataluña durante el siglo XIX. Las fábricas de lana y algodón convirtieron la ciudad en la 'Manchester catalana'. Hoy, ese espíritu emprendedor sigue vivo en sus más de 12.000 comercios, que han transformado la industria en servicios, hostelería y comercio de proximidad.",
+    "zonaComercial": "el Eix Macià y la Rambla, con más de 400 comercios concentrados",
+    "barrios": ["Gràcia", "La Creu Alta", "Can Feu", "Torre-romeu", "Eix Macià"],
+    "sectoresDestacados": [
+      { "sector": "Hostelería y restauración", "detalle": "Sabadell cuenta con más de 800 bares y restaurantes. La zona de la Rambla y el Eix Macià concentran la mayor oferta gastronómica, con una competencia creciente que exige diferenciarse online." },
+      { "sector": "Comercio de moda y textil", "detalle": "Herencia de su pasado industrial, Sabadell mantiene un sector textil fuerte con tiendas multimarca, showrooms y diseñadores locales en el centro histórico." },
+      { "sector": "Salud y bienestar", "detalle": "Más de 150 clínicas dentales, fisioterapeutas y centros de estética compiten por pacientes que buscan 'dentista en Sabadell' o 'fisio cerca de mí' en Google." },
+      { "sector": "Automoción y talleres", "detalle": "Con un parque de más de 120.000 vehículos registrados, los talleres mecánicos y concesionarios de Sabadell necesitan captar clientes que comparan precios y reseñas online." }
+    ],
+    "problemaDigital": "A pesar de su tamaño, el 65% de los comercios de Sabadell no tiene web propia o utiliza solo redes sociales. Esto crea una oportunidad enorme: los negocios que sí tienen presencia digital profesional captan una parte desproporcionada de los clientes que buscan servicios locales en Google.",
+    "casoExito": {
+      "negocio": "Restaurante Can Miquel",
+      "sector": "Hostelería",
+      "problema": "Dependía exclusivamente del boca a boca y las reseñas de Google Maps sin web propia. Perdía reservas frente a competidores con carta online y sistema de reservas.",
+      "solucion": "Web con carta digital actualizable, sistema de reservas integrado, galería profesional y optimización SEO local para 'restaurante Sabadell'.",
+      "resultado": "En 4 meses, las reservas online representan el 40% del total y ha duplicado las visitas en horario de mediodía entre semana."
+    },
+    "estadisticas": {
+      "comerciosOnline": "Solo el 35% de los comercios de Sabadell tiene una web profesional actualizada",
+      "busquedasMensuales": "Más de 8.500 búsquedas mensuales de servicios locales en Sabadell desde Google",
+      "competidoresDigitales": "De cada 10 negocios similares al tuyo, solo 3 tienen web. Ser el cuarto te pone por delante del 70%"
+    },
+    "testimonioLocal": {
+      "nombre": "Laura Martínez",
+      "negocio": "Clínica Dental Somriure Sabadell",
+      "texto": "Llevábamos 8 años sin web, fiándonos del boca a boca. En los primeros 3 meses con la web nueva, los pacientes nuevos que llegaron por Google superaron a los de recomendación. Ojalá lo hubiéramos hecho antes."
+    },
+    "ventajasLocales": [
+      "Sabadell tiene 216.000 habitantes buscando servicios locales cada día en Google — si no apareces, tus competidores se llevan esos clientes",
+      "El Eix Macià y la Rambla concentran tráfico peatonal, pero el tráfico digital es 5 veces mayor y no tiene horario de cierre",
+      "Con sede en Sabadell, conocemos el tejido comercial de primera mano y podemos reunirnos en persona en tu local",
+      "El pasado industrial de Sabadell creó un ecosistema emprendedor — tu web es la herramienta que necesitas para competir en la era digital"
+    ],
+    "faqsUnicas": [
+      {
+        "pregunta": "¿Cuánto cuesta una página web para un negocio en Sabadell?",
+        "respuesta": "Nuestros planes empiezan en 490€ para una web one-page profesional. Para negocios del Eix Macià o la Rambla que necesitan reservas online o catálogo, el Plan Pro (990€) es lo más habitual. Incluimos optimización SEO para que aparezcas cuando busquen tu servicio en Sabadell."
+      },
+      {
+        "pregunta": "¿Podéis hacer fotos de mi local en Sabadell para la web?",
+        "respuesta": "Sí, al tener sede en Sabadell podemos desplazarnos a tu local para una sesión de fotos profesional. Incluimos fotografía básica en el Plan Pro y Total. Para el Plan Starter, te guiamos para que hagas buenas fotos con el móvil."
+      },
+      {
+        "pregunta": "¿Cuánto tardo en aparecer en Google si tengo un comercio en la zona del Eix Macià?",
+        "respuesta": "Con SEO on-page bien hecho, tu web empieza a indexarse en 1-2 semanas. Para posiciones competitivas como 'dentista Sabadell' o 'restaurante Eix Macià', necesitas SEO local mensual. Los primeros resultados se ven entre el mes 2 y 4, dependiendo de la competencia del sector."
+      },
+      {
+        "pregunta": "¿Trabajáis con negocios de todos los barrios de Sabadell?",
+        "respuesta": "Absolutamente. Trabajamos con comercios de Gràcia, La Creu Alta, Can Feu, Torre-romeu y todos los barrios. Adaptamos la estrategia SEO para posicionar en búsquedas específicas del barrio cuando tiene sentido, como 'peluquería Can Feu' o 'restaurante Gràcia Sabadell'."
+      },
+      {
+        "pregunta": "Mi negocio en Sabadell solo vende a clientes locales, ¿realmente necesito una web?",
+        "respuesta": "Precisamente por eso la necesitas. El 78% de las búsquedas locales en el móvil acaban en una visita al negocio en las siguientes 24 horas. Cuando alguien busca 'taller mecánico Sabadell' o 'clínica dental cerca de mí' desde Sabadell, los negocios con web se llevan el clic. Sin web, eres invisible para esos clientes."
+      }
+    ],
+    "contenidoSEO": {
+      "titulo": "Posicionamiento Web Local en Sabadell: Domina Google en tu Zona",
+      "parrafos": [
+        "Sabadell genera más de 8.500 búsquedas mensuales de servicios locales en Google. Desde 'fontanero Sabadell' hasta 'mejor restaurante Eix Macià', cada búsqueda es un cliente potencial buscando exactamente lo que tú ofreces. El problema es que si tu negocio no aparece en esos resultados, otro se lleva la llamada.",
+        "Nuestro servicio de SEO local para Sabadell incluye optimización de Google Business Profile, creación de contenido orientado a los barrios de Sabadell (Gràcia, La Creu Alta, Can Feu), gestión de reseñas y link building con directorios locales del Vallès Occidental. No hacemos SEO genérico: trabajamos las búsquedas que realmente traen clientes a negocios de Sabadell.",
+        "La ventaja de ser una agencia con sede en Sabadell es que conocemos el mercado local. Sabemos qué buscan los vecinos, qué zonas comerciales tienen más competencia y cómo posicionar tu negocio frente a la competencia real, no frente a negocios de Madrid o Valencia que no compiten contigo."
+      ]
+    }
+  },
+  {
+    "slug": "terrassa",
+    "nombre": "Terrassa",
+    "comarca": "Vallès Occidental",
+    "poblacion": "224.000 habitantes",
+    "cp": "08220–08228",
+    "datoLocal": "Terrassa es la tercera ciudad más poblada de Cataluña, con un ecosistema empresarial potente. Más de 15.000 empresas operan en la ciudad, pero muchas aún no tienen presencia digital profesional.",
+    "negociosTipicos": "academias, gimnasios, gestorías, restaurantes, comercios de proximidad",
+    "distanciaBcn": "a 30 minutos de Barcelona",
+    "municipiosCercanos": ["sabadell", "rubi", "matadepera", "sant-cugat-del-valles"],
+    "excusaLocal": "Terrassa tiene más de 15.000 empresas activas. Si tu competencia ya está online y tú no, les estás regalando clientes cada día.",
+    "historia": "Terrassa tiene una tradición industrial centenaria, con las emblemáticas fábricas modernistas de vapor que hoy son patrimonio. La ciudad evolucionó de la lana al conocimiento: alberga la UPC y centros tecnológicos que la convierten en un hub de innovación. Su tejido empresarial mezcla industria, comercio y servicios con más de 15.000 empresas activas.",
+    "zonaComercial": "el centro comercial abierto del Raval y la zona de la Rambla d'Ègara",
+    "barrios": ["Ca n'Anglada", "Ègara", "Sant Pere", "Les Fonts", "Raval"],
+    "sectoresDestacados": [
+      { "sector": "Formación y academias", "detalle": "Con la UPC y múltiples centros formativos, Terrassa tiene un sector educativo potente. Academias de idiomas, refuerzo escolar y formación profesional compiten por captar alumnos que buscan 'academia inglés Terrassa' en Google." },
+      { "sector": "Fitness y bienestar", "detalle": "Más de 60 gimnasios y centros deportivos operan en Terrassa. La competencia es feroz y los usuarios comparan precios, horarios e instalaciones online antes de inscribirse." },
+      { "sector": "Asesorías y gestorías", "detalle": "El gran volumen empresarial de Terrassa genera demanda de servicios profesionales. Gestorías, asesorías fiscales y laborales que no aparecen en Google pierden clientes frente a competidores mejor posicionados." },
+      { "sector": "Restauración y ocio nocturno", "detalle": "La zona del Raval y la Rambla d'Ègara concentran una oferta gastronómica variada. Los fines de semana, las búsquedas 'dónde comer en Terrassa' se disparan y solo los que tienen web con carta y fotos convierten." }
+    ],
+    "problemaDigital": "Terrassa es una ciudad grande con mentalidad de pueblo en lo digital. Muchos negocios con décadas de trayectoria siguen sin web porque 'siempre han funcionado con el boca a boca'. Pero los hábitos de consumo han cambiado: el 82% de los terrasenses buscan negocios locales en el móvil antes de visitarlos.",
+    "casoExito": {
+      "negocio": "Academia LinguaViva",
+      "sector": "Formación",
+      "problema": "Captaba alumnos solo con carteles en el barrio y flyers. Cada septiembre, la matrícula dependía del boca a boca y perdía alumnos frente a academias con web y formulario de inscripción online.",
+      "solucion": "Web con información de cursos, precios transparentes, formulario de inscripción y blog con consejos de aprendizaje. SEO enfocado en 'academia inglés Terrassa' y 'clases catalán Terrassa'.",
+      "resultado": "Incremento del 55% en matrículas el primer septiembre con web. El formulario online genera el 60% de los leads nuevos."
+    },
+    "estadisticas": {
+      "comerciosOnline": "Solo el 30% de las empresas de Terrassa tiene una web funcional y actualizada",
+      "busquedasMensuales": "Más de 9.200 búsquedas mensuales de servicios locales en Terrassa",
+      "competidoresDigitales": "Con 15.000 empresas y solo 4.500 con web, el hueco digital es enorme. Cada web nueva tiene ventaja inmediata"
+    },
+    "testimonioLocal": {
+      "nombre": "Marc Puig",
+      "negocio": "Gestoría Puig & Asociats, Terrassa",
+      "texto": "Pensábamos que una gestoría no necesitaba web, que nuestros clientes venían por recomendación. Desde que tenemos web, un 30% de los nuevos clientes nos encuentra buscando 'gestoría Terrassa' en Google. Es un canal que no teníamos."
+    },
+    "ventajasLocales": [
+      "Con 224.000 habitantes, Terrassa es un mercado enorme donde la competencia digital aún es baja — posicionarte ahora es más fácil y más barato que en 2 años",
+      "La zona del Raval y la Rambla d'Ègara son los ejes comerciales principales, pero las búsquedas online cubren toda la ciudad incluidos barrios como Ca n'Anglada, Les Fonts o Sant Pere",
+      "Terrassa atrae compradores de toda la comarca del Vallès Occidental — tu web puede captar clientes más allá de los límites del municipio",
+      "La presencia de la UPC y centros tecnológicos crea un perfil de consumidor digital que espera encontrar tu negocio online"
+    ],
+    "faqsUnicas": [
+      {
+        "pregunta": "¿Cuánto cuesta crear una web para mi negocio en Terrassa?",
+        "respuesta": "Desde 490€ para una web one-page. Los negocios de Terrassa suelen elegir el Plan Pro (990€) que incluye varias páginas, formularios y SEO local. Para tiendas online, el Plan Total (1.990€) es la mejor opción. Todos incluyen diseño responsive y optimización para buscadores."
+      },
+      {
+        "pregunta": "Tengo un negocio en la zona del Raval, ¿me ayudará una web a competir con los comercios grandes?",
+        "respuesta": "Exactamente para eso sirve. En Google, un negocio pequeño con buena web y SEO local puede aparecer por encima de grandes cadenas. Si alguien busca 'tienda ropa Terrassa Raval', Google prioriza la relevancia local. Una web optimizada te pone a competir de tú a tú."
+      },
+      {
+        "pregunta": "¿Cuánto tardaré en ver resultados de SEO en Terrassa?",
+        "respuesta": "Para búsquedas locales específicas como 'gimnasio Les Fonts' o 'academia inglés Ègara', puedes ver resultados en 4-6 semanas. Para términos más competidos como 'restaurante Terrassa', el proceso toma 2-4 meses. El SEO local en Terrassa es aún poco competitivo comparado con Barcelona, lo que acelera los resultados."
+      },
+      {
+        "pregunta": "¿Hacéis reuniones presenciales en Terrassa?",
+        "respuesta": "Sí. Nuestra sede está en Sabadell, a 15 minutos de Terrassa. Podemos reunirnos en tu local, en un coworking o por videollamada, como prefieras. Muchos clientes de Terrassa prefieren la primera reunión presencial y las siguientes por videollamada."
+      },
+      {
+        "pregunta": "Mi academia en Terrassa necesita formulario de inscripción online, ¿lo incluís?",
+        "respuesta": "Sí, es una funcionalidad que incluimos en los planes Pro y Total. Además de formulario de inscripción, podemos integrar pasarela de pago para que cobres la matrícula online. Para academias de Terrassa es una funcionalidad clave en período de matriculación."
+      }
+    ],
+    "contenidoSEO": {
+      "titulo": "SEO Local en Terrassa: Haz que tus Clientes te Encuentren",
+      "parrafos": [
+        "Cada mes se realizan más de 9.200 búsquedas de servicios locales en Terrassa desde Google. 'Gimnasio Terrassa', 'gestoría cerca de mí', 'academia inglés Ègara' — cada una de esas búsquedas es una persona con intención real de compra o contratación. El negocio que aparece primero se lleva el clic y, muy probablemente, el cliente.",
+        "Trabajamos el SEO local de Terrassa con estrategia de barrios: posicionamos tu negocio no solo para 'Terrassa' como término genérico, sino para búsquedas específicas de Ca n'Anglada, Ègara, Sant Pere, Les Fonts y el Raval. Esto multiplica las posibilidades de aparecer en búsquedas hiperlocales, que son las que mayor tasa de conversión tienen.",
+        "Terrassa tiene una ventaja competitiva clara en SEO: a pesar de ser la tercera ciudad de Cataluña, la competencia digital es significativamente menor que en Barcelona. Posicionar un negocio local en Terrassa requiere menos esfuerzo y menos inversión que en la capital, con un retorno proporcional excelente."
+      ]
+    }
+  },
+  {
+    "slug": "badalona",
+    "nombre": "Badalona",
+    "comarca": "Barcelonès",
+    "poblacion": "223.000 habitantes",
+    "cp": "08910–08918",
+    "datoLocal": "Badalona, la tercera ciudad del área metropolitana, tiene un comercio local fuerte pero con baja digitalización. Su proximidad a Barcelona hace que la competencia online sea una oportunidad real para captar clientes.",
+    "negociosTipicos": "comercios de barrio, fisioterapeutas, centros de estética, bares y restaurantes",
+    "distanciaBcn": "limítrofe con Barcelona",
+    "municipiosCercanos": ["santa-coloma-de-gramenet", "sant-adria-de-besos", "montgat", "tiana"],
+    "excusaLocal": "En Badalona, miles de vecinos buscan cada día servicios locales en Google. Si tu negocio no aparece, otro se lleva a tu cliente.",
+    "historia": "Badalona es una de las ciudades más antiguas de Cataluña, fundada por los romanos como Baetulo. Su patrimonio incluye termas romanas y el emblemático Pont del Petroli sobre el Mediterráneo. Hoy es una ciudad diversa y dinámica, con una fuerte identidad propia que la diferencia de Barcelona a pesar de ser limítrofe.",
+    "zonaComercial": "la calle del Mar y el Eix Comercial de Badalona, con más de 300 comercios",
+    "barrios": ["Llefià", "La Salut", "Sant Roc", "Casagemes", "Dalt de la Vila"],
+    "sectoresDestacados": [
+      { "sector": "Fisioterapia y salud", "detalle": "Badalona cuenta con más de 120 centros de fisioterapia, quiromasaje y rehabilitación. La competencia es alta y los pacientes buscan 'fisioterapeuta Badalona opiniones' antes de pedir cita. Sin web con reseñas y servicios claros, pierdes frente a quien sí la tiene." },
+      { "sector": "Estética y belleza", "detalle": "Peluquerías, centros de estética y spas urbanos son uno de los sectores más activos de Badalona. Las clientas buscan portfolios de trabajos, precios y disponibilidad online antes de reservar." },
+      { "sector": "Hostelería de playa", "detalle": "El paseo marítimo y la zona del Pont del Petroli concentran restaurantes y chiringuitos que en verano multiplican las búsquedas de 'restaurante playa Badalona'. Una web con carta y reservas marca la diferencia en temporada alta." },
+      { "sector": "Comercio de proximidad", "detalle": "Las tiendas de barrio de Llefià, La Salut y Casagemes siguen siendo el motor comercial de Badalona. Pero los vecinos más jóvenes consultan Google incluso para compras de proximidad." }
+    ],
+    "problemaDigital": "Al ser limítrofe con Barcelona, los negocios de Badalona compiten por las mismas búsquedas de Google con negocios de la capital. Sin una web optimizada para SEO local, los resultados de búsqueda priorizan Barcelona y los negocios badaloneses quedan invisibles para sus propios vecinos.",
+    "casoExito": {
+      "negocio": "FisioMar Badalona",
+      "sector": "Salud",
+      "problema": "Tenía una ficha de Google Maps pero sin web. Los pacientes que buscaban 'fisioterapeuta Badalona' encontraban antes a competidores con web completa, fotos del centro y sistema de citas online.",
+      "solucion": "Web profesional con descripción de tratamientos, perfil del equipo, sistema de citas online y blog con artículos sobre lesiones comunes. SEO local enfocado en Badalona y barrios cercanos.",
+      "resultado": "En 3 meses, el 45% de los pacientes nuevos llega a través de la web. La tasa de cancelación bajó porque el sistema de citas envía recordatorios automáticos."
+    },
+    "estadisticas": {
+      "comerciosOnline": "Solo el 28% de los comercios de Badalona tiene presencia web profesional",
+      "busquedasMensuales": "Más de 7.800 búsquedas mensuales de servicios locales específicos de Badalona",
+      "competidoresDigitales": "Los negocios de Badalona compiten con los de Barcelona en Google — sin web optimizada, Barcelona se lleva tu tráfico"
+    },
+    "testimonioLocal": {
+      "nombre": "Anna Rodríguez",
+      "negocio": "Centro de Estética Glow, Badalona",
+      "texto": "Mis clientas venían por Instagram, pero muchas me decían que buscaban 'centro estética Badalona' en Google y no me encontraban. Desde que tengo web, las reservas por Google superan a las de Instagram. Y el perfil de clienta es mejor: vienen sabiendo qué quieren."
+    },
+    "ventajasLocales": [
+      "Badalona tiene 223.000 habitantes pero solo el 28% de sus comercios tiene web — hay un hueco digital enorme que puedes aprovechar ahora",
+      "La proximidad a Barcelona es un arma de doble filo: sin web, tus clientes encuentran negocios de Barcelona antes que el tuyo. Con web optimizada, capturas tráfico local que ahora se fuga",
+      "El paseo marítimo y el Pont del Petroli atraen visitantes y turistas en verano — una web posicionada multiplica tu captación en temporada alta",
+      "Los barrios de Badalona (Llefià, La Salut, Sant Roc) tienen identidad propia y búsquedas locales específicas que puedes dominar"
+    ],
+    "faqsUnicas": [
+      {
+        "pregunta": "¿Cuánto cuesta una web para un negocio en Badalona?",
+        "respuesta": "Desde 490€ para una web one-page. Para negocios de Badalona que necesitan citas online o catálogo de servicios, como fisioterapeutas o centros de estética, recomendamos el Plan Pro (990€) que incluye estas funcionalidades y SEO local para Badalona."
+      },
+      {
+        "pregunta": "Mi negocio está en Llefià, ¿puedo posicionarme para búsquedas del barrio?",
+        "respuesta": "Sí, y de hecho es una estrategia muy efectiva. Las búsquedas por barrio como 'peluquería Llefià' o 'restaurante La Salut Badalona' tienen menos competencia y una tasa de conversión altísima. Trabajamos el SEO local a nivel de barrio para maximizar tu visibilidad."
+      },
+      {
+        "pregunta": "¿Cómo evito que los negocios de Barcelona me quiten clientes en Google?",
+        "respuesta": "Con SEO local bien trabajado. Google prioriza resultados cercanos al usuario. Si un vecino de Badalona busca 'dentista cerca de mí', Google mostrará resultados de Badalona primero, siempre que tengas web optimizada con tu dirección, horarios y señales locales claras."
+      },
+      {
+        "pregunta": "Tengo un chiringuito en el paseo marítimo, ¿la web me ayudará en verano?",
+        "respuesta": "Muchísimo. Las búsquedas de 'restaurante playa Badalona' o 'chiringuito Pont del Petroli' se multiplican por 4 en verano. Si tu web está lista y posicionada antes de junio, captarás tráfico que ahora se reparte entre los pocos que tienen presencia online."
+      },
+      {
+        "pregunta": "¿Puedo gestionar las reservas de mi restaurante en Badalona desde la web?",
+        "respuesta": "Sí, integramos sistemas de reservas online en los planes Pro y Total. Tus clientes pueden reservar mesa 24/7, reciben confirmación automática y tú gestionas todo desde un panel. Es especialmente útil para restaurantes del paseo marítimo de Badalona en temporada alta."
+      }
+    ],
+    "contenidoSEO": {
+      "titulo": "SEO Local en Badalona: Compite con Barcelona y Gana en tu Zona",
+      "parrafos": [
+        "Badalona tiene un desafío único en SEO: al ser limítrofe con Barcelona, muchas búsquedas locales mezclan resultados de ambas ciudades. Cuando un vecino de Casagemes busca 'dentista cerca', Google puede mostrar tanto resultados de Badalona como de Sant Adrià o Barcelona. La clave está en tener una web con señales locales claras que le digan a Google: 'este negocio está en Badalona y sirve a Badalona'.",
+        "Nuestra estrategia de SEO local para Badalona trabaja en tres niveles: posicionamiento a nivel de ciudad ('fisioterapeuta Badalona'), a nivel de barrio ('peluquería Llefià', 'restaurante Dalt de la Vila') y a nivel de zona ('comercios paseo marítimo Badalona'). Esta estrategia multicapa maximiza tu visibilidad en todas las búsquedas relevantes.",
+        "Además, optimizamos tu perfil de Google Business para que aparezcas en el mapa local. Para negocios de Badalona, esto es crítico: el 46% de las búsquedas con intención local terminan en un clic en el mapa. Si tu ficha de Google no está completa y vinculada a una web profesional, estás perdiendo casi la mitad de tus posibles clientes."
+      ]
+    }
+  },
+  {
+    "slug": "mataro",
+    "nombre": "Mataró",
+    "comarca": "Maresme",
+    "poblacion": "130.000 habitantes",
+    "cp": "08301–08304",
+    "datoLocal": "Capital del Maresme, Mataró es referencia comercial para toda la comarca costera. Su mercado local tiene una demanda creciente de servicios digitales que muchos negocios aún no están cubriendo.",
+    "negociosTipicos": "tiendas de moda, restaurantes de playa, inmobiliarias, clínicas veterinarias",
+    "distanciaBcn": "a 30 minutos de Barcelona por la C-32",
+    "municipiosCercanos": ["premie-de-mar", "argentona", "cabrera-de-mar", "vilassar-de-mar"],
+    "excusaLocal": "Mataró es el centro comercial del Maresme. Tus clientes potenciales ya buscan en Google lo que tú vendes. ¿Van a encontrarte a ti o a tu competencia?",
+    "historia": "Mataró fue la primera ciudad de la Península Ibérica en tener ferrocarril (1848, línea Mataró-Barcelona). Capital del Maresme, combina tradición marinera con un centro comercial potente. Su casco antiguo conserva la estructura medieval mientras la fachada marítima se ha transformado en una zona de ocio y restauración moderna.",
+    "zonaComercial": "la Riera, eje comercial peatonal con más de 200 comercios, y el centro comercial Mataró Parc",
+    "barrios": ["Cerdanyola", "Cirera", "El Palau", "Rocafonda", "Vista Alegre"],
+    "sectoresDestacados": [
+      { "sector": "Moda y retail", "detalle": "La Riera de Mataró es uno de los ejes comerciales más activos del Maresme. Tiendas de moda, complementos y calzado compiten con Mataró Parc y necesitan diferenciarse con presencia online propia." },
+      { "sector": "Inmobiliarias", "detalle": "El Maresme atrae compradores de Barcelona buscando calidad de vida. Las inmobiliarias de Mataró que tienen web con buen SEO captan leads de Barcelona, mientras las que no tienen web solo llegan al mercado local." },
+      { "sector": "Restauración costera", "detalle": "El paseo marítimo de Mataró y la zona del port concentran una oferta gastronómica que en verano se multiplica. Las búsquedas 'restaurante Mataró playa' crecen un 300% entre junio y septiembre." },
+      { "sector": "Veterinarias y mascotas", "detalle": "El Maresme tiene una de las mayores densidades de mascotas por hogar de Cataluña. Las clínicas veterinarias de Mataró compiten por posicionarse en búsquedas como 'veterinario urgencias Mataró' que tienen alta intención de conversión." }
+    ],
+    "problemaDigital": "Mataró es capital de comarca y atrae compradores de todo el Maresme. Pero muchos de esos compradores buscan primero en Google y, si no encuentran tu negocio, van directamente a Mataró Parc o al comercio que sí aparece. La digitalización del comercio de la Riera es una prioridad pendiente.",
+    "casoExito": {
+      "negocio": "Inmobiliària Costa Maresme",
+      "sector": "Inmobiliario",
+      "problema": "Solo captaba propiedades y compradores locales mediante contactos personales y anuncios en portales genéricos como Idealista, donde competía con cientos de inmobiliarias.",
+      "solucion": "Web propia con buscador de propiedades, fichas detalladas con fotos profesionales, guía de barrios de Mataró y blog sobre el mercado inmobiliario del Maresme. SEO local para 'pisos Mataró', 'casas Maresme playa'.",
+      "resultado": "El 35% de los contactos nuevos llega por la web propia. Ha empezado a captar compradores de Barcelona interesados en mudarse al Maresme, un perfil que antes no llegaba."
+    },
+    "estadisticas": {
+      "comerciosOnline": "El 32% de los comercios de la Riera tiene web propia — el resto depende de redes sociales o no tiene presencia digital",
+      "busquedasMensuales": "6.400 búsquedas mensuales de servicios locales en Mataró y el Maresme",
+      "competidoresDigitales": "Mataró Parc acapara búsquedas genéricas de compras — los comercios independientes necesitan SEO local para competir"
+    },
+    "testimonioLocal": {
+      "nombre": "Jordi Pons",
+      "negocio": "Clínica Veterinària El Maresme, Mataró",
+      "texto": "Antes solo venían los del barrio. Desde que tenemos web optimizada para 'veterinario Mataró', recibimos llamadas de todo el Maresme. Incluso urgencias nocturnas que antes iban a Barcelona porque no nos encontraban. La web se ha pagado sola en dos meses."
+    },
+    "ventajasLocales": [
+      "Mataró es capital del Maresme y referencia comercial para 130.000 habitantes más los de municipios costeros cercanos como Premià, Vilassar y Cabrera",
+      "La Riera es un eje comercial con más de 200 tiendas pero con poca presencia digital — posicionarte online es destacar frente a competidores que aún no lo han hecho",
+      "El turismo de playa multiplica las búsquedas locales en verano — tu web trabaja para ti 24/7, también cuando los turistas buscan servicios desde el hotel",
+      "Los compradores de Barcelona buscan el Maresme para vivir — una web posicionada capta esa demanda que antes solo llegaba por portal inmobiliario"
+    ],
+    "faqsUnicas": [
+      {
+        "pregunta": "¿Cuánto cuesta una página web para un comercio de la Riera de Mataró?",
+        "respuesta": "Desde 490€ para una web profesional. Los comercios de la Riera suelen necesitar catálogo de productos o servicios, por lo que el Plan Pro (990€) es el más elegido. Para tiendas que quieren vender online y competir con Mataró Parc, el Plan Total con e-commerce (1.990€) es la mejor inversión."
+      },
+      {
+        "pregunta": "¿Puedo competir con Mataró Parc si tengo una tienda pequeña en el centro?",
+        "respuesta": "En Google, sí. El centro comercial tiene presencia genérica, pero las búsquedas específicas como 'zapatería artesanal Mataró' o 'tienda ropa sostenible Maresme' son terreno donde un comercio especializado con buena web gana. Google valora la relevancia, y tu especialización es tu ventaja."
+      },
+      {
+        "pregunta": "Mi restaurante está en el paseo marítimo de Mataró, ¿la web me ayudará en temporada alta?",
+        "respuesta": "Las búsquedas de 'restaurante playa Mataró' se multiplican por 3 en verano. Si tu web está posicionada antes de junio con carta actualizada, fotos del local y opción de reserva, captarás un tráfico que ahora se pierde. Recomendamos tener la web lista en abril-mayo para indexar a tiempo."
+      },
+      {
+        "pregunta": "¿Hacéis webs para inmobiliarias del Maresme?",
+        "respuesta": "Sí, es uno de los sectores donde más experiencia tenemos. Creamos webs con buscador de propiedades, fichas con galería, filtros por zona (Mataró, Premià, Vilassar) y captación de leads. El SEO local para inmobiliarias del Maresme tiene un retorno excelente porque el ticket medio es alto."
+      },
+      {
+        "pregunta": "Soy veterinario en Mataró, ¿realmente buscan veterinarios en Google?",
+        "respuesta": "Más de lo que imaginas. 'Veterinario Mataró', 'veterinario urgencias Maresme' y 'clínica veterinaria cerca de mí' suman cientos de búsquedas mensuales. Y son búsquedas de alta urgencia: cuando una mascota está enferma, el dueño busca y llama al primero que aparece. Sin web, no eres ese primero."
+      }
+    ],
+    "contenidoSEO": {
+      "titulo": "Posicionamiento SEO Local en Mataró y el Maresme",
+      "parrafos": [
+        "Mataró tiene una posición privilegiada como capital del Maresme: las búsquedas locales no se limitan a los 130.000 habitantes del municipio, sino que abarcan toda la comarca costera. Cuando alguien en Premià, Cabrera o Vilassar busca un servicio que no encuentra en su pueblo, la siguiente búsqueda es 'en Mataró'. Tu web puede captar ese tráfico comarcal.",
+        "Nuestra estrategia SEO para negocios de Mataró combina posicionamiento a nivel ciudad con términos de comarca. Trabajamos búsquedas como 'dentista Mataró', pero también 'mejor restaurante Maresme' o 'inmobiliaria costa Maresme'. Esta doble capa multiplica el alcance de tu web sin necesidad de abrir más locales.",
+        "Un factor clave del SEO local en Mataró es la estacionalidad. Las búsquedas de hostelería, ocio y servicios turísticos se multiplican en verano. Planificamos el contenido para que tu web esté posicionada antes de la temporada alta, no después. Porque el SEO necesita semanas para hacer efecto, y en julio ya es tarde para empezar."
+      ]
+    }
+  },
+  {
+    "slug": "hospitalet-de-llobregat",
+    "nombre": "L'Hospitalet de Llobregat",
+    "comarca": "Barcelonès",
+    "poblacion": "265.000 habitantes",
+    "cp": "08901–08908",
+    "datoLocal": "L'Hospitalet es la segunda ciudad más poblada de Cataluña y la más densamente poblada de España. Con un tejido comercial enorme, la demanda de visibilidad digital supera con creces la oferta.",
+    "negociosTipicos": "peluquerías, talleres, tiendas de alimentación, clínicas dentales, abogados",
+    "distanciaBcn": "integrada en el área metropolitana de Barcelona",
+    "municipiosCercanos": ["esplugues-de-llobregat", "cornella-de-llobregat", "el-prat-de-llobregat", "sant-joan-despi"],
+    "excusaLocal": "265.000 habitantes buscan servicios cada día. L'Hospitalet es un mercado enorme donde destacar online marca la diferencia entre crecer o quedarse atrás.",
+    "historia": "L'Hospitalet pasó de ser un pueblo agrícola a la segunda ciudad de Cataluña gracias a las oleadas migratorias de los años 60. Hoy es la ciudad más densamente poblada de España, con una diversidad cultural que se refleja en su comercio. El distrito de Fira de Barcelona (Gran Via) y la transformación de la zona de la Farga la han convertido en un polo empresarial de primer nivel.",
+    "zonaComercial": "la avenida Fabregada y el eje comercial de Santa Eulàlia, con más de 500 comercios activos",
+    "barrios": ["Santa Eulàlia", "Collblanc", "La Torrassa", "Bellvitge", "La Florida"],
+    "sectoresDestacados": [
+      { "sector": "Peluquerías y barberos", "detalle": "L'Hospitalet tiene una de las mayores densidades de peluquerías y barberías por habitante de España. Con más de 200 establecimientos, la competencia es brutal y solo los que tienen presencia digital atraen clientes de otros barrios." },
+      { "sector": "Abogados e inmigración", "detalle": "La diversidad de L'Hospitalet genera una demanda alta de servicios legales de extranjería e inmigración. Los despachos que aparecen en búsquedas como 'abogado extranjería Hospitalet' captan un volumen constante de consultas." },
+      { "sector": "Alimentación y restauración multicultural", "detalle": "Desde restaurantes pakistaníes en La Torrassa hasta tiendas de alimentación latinoamericana en Collblanc, la oferta gastronómica multicultural de L'Hospitalet es un activo único que atrae visitantes de toda el área metropolitana." },
+      { "sector": "Clínicas dentales", "detalle": "Más de 80 clínicas dentales compiten en L'Hospitalet. Los pacientes comparan webs, reseñas y precios online antes de elegir dentista. Las clínicas sin web profesional pierden frente a las que ofrecen información clara y cita online." }
+    ],
+    "problemaDigital": "L'Hospitalet sufre el 'efecto Barcelona': al estar integrada en el continuo urbano, muchos negocios quedan invisibles en Google porque los resultados se los lleva Barcelona. Sin SEO local específico para L'Hospitalet, tus clientes —que están literalmente a 200 metros— te buscan y no te encuentran.",
+    "casoExito": {
+      "negocio": "Despacho Jurídico Montserrat",
+      "sector": "Legal",
+      "problema": "Competía con cientos de abogados de Barcelona en búsquedas genéricas. Sus clientes principales eran residentes de L'Hospitalet, pero Google priorizaba despachos del centro de Barcelona.",
+      "solucion": "Web especializada en derecho de extranjería con contenido en español y árabe, landing pages específicas por barrio (Collblanc, La Torrassa) y Google Business optimizado con horarios extendidos.",
+      "resultado": "Las consultas desde la web se triplicaron en 5 meses. El 70% de los nuevos clientes proviene de búsquedas locales. Ha abierto un segundo despacho en Santa Eulàlia."
+    },
+    "estadisticas": {
+      "comerciosOnline": "Solo el 25% de los comercios de L'Hospitalet tiene web — en una ciudad de 265.000 habitantes, eso son miles de negocios invisibles",
+      "busquedasMensuales": "Más de 11.000 búsquedas mensuales de servicios locales específicos en L'Hospitalet",
+      "competidoresDigitales": "Barcelona absorbe el 60% de las búsquedas que deberían llegar a negocios de L'Hospitalet — el SEO local corrige este desequilibrio"
+    },
+    "testimonioLocal": {
+      "nombre": "Hassan El Amrani",
+      "negocio": "Barbería Royal, La Torrassa",
+      "texto": "Tengo la barbería más llena del barrio, pero quería crecer más allá de La Torrassa. Con la web nueva y las reseñas de Google bien gestionadas, ahora vienen clientes de Bellvitge, Santa Eulàlia e incluso de Barcelona. La web me ha abierto el mapa."
+    },
+    "ventajasLocales": [
+      "L'Hospitalet tiene 265.000 habitantes y es la ciudad más densa de España — tus clientes potenciales están literalmente a tu alrededor buscando servicios en Google",
+      "El 'efecto Barcelona' perjudica a los negocios de L'Hospitalet en Google, pero con SEO local bien hecho puedes revertirlo y captar tráfico que ahora se fuga",
+      "La diversidad cultural de L'Hospitalet es una oportunidad: webs multiidioma y contenido culturalmente relevante te diferencian y captan segmentos que nadie está atendiendo online",
+      "La zona de Fira de Barcelona y la transformación de Granvia L'H traen nuevos profesionales al municipio — es público que busca servicios exclusivamente online"
+    ],
+    "faqsUnicas": [
+      {
+        "pregunta": "¿Cuánto cuesta una web para mi negocio en L'Hospitalet?",
+        "respuesta": "Desde 490€. Para negocios de L'Hospitalet que necesitan diferenciarse de la competencia de Barcelona, recomendamos el Plan Pro (990€) con SEO local incluido. Es la forma de que Google entienda que tu negocio sirve a L'Hospitalet y no quede enterrado bajo resultados de Barcelona."
+      },
+      {
+        "pregunta": "¿Cómo evito que Google muestre negocios de Barcelona antes que el mío?",
+        "respuesta": "Con SEO local específico para L'Hospitalet. Optimizamos tu web con señales geográficas claras: dirección, barrio, código postal, menciones naturales a tu zona. Además, trabajamos tu Google Business Profile para que Google entienda que sirves a L'Hospitalet, no a Barcelona en general."
+      },
+      {
+        "pregunta": "Tengo una peluquería en Collblanc, ¿hay mucha competencia online?",
+        "respuesta": "Curiosamente, no. Aunque hay cientos de peluquerías en L'Hospitalet, menos del 20% tiene web propia. La competencia real es offline; en Google, el campo está relativamente vacío. Tener web con fotos de tu trabajo, precios y cita online te pone por delante del 80% de tu competencia."
+      },
+      {
+        "pregunta": "¿Hacéis webs en más idiomas? Mi clientela es muy diversa.",
+        "respuesta": "Sí, creamos webs multiidioma. Para negocios de L'Hospitalet es especialmente útil: tener la web en español, catalán y árabe (o urdu, francés, según tu clientela) amplía tu alcance y mejora la experiencia de tus clientes. Lo incluimos en los planes Pro y Total."
+      },
+      {
+        "pregunta": "Mi despacho de abogados en L'Hospitalet está especializado en extranjería, ¿me ayudará la web?",
+        "respuesta": "Es probablemente el sector donde más retorno tiene una web en L'Hospitalet. Las búsquedas de 'abogado extranjería Hospitalet' y 'renovar NIE Hospitalet' tienen volúmenes altos y constantes. Una web con información clara sobre trámites y precios atrae consultas cualificadas a diario."
+      }
+    ],
+    "contenidoSEO": {
+      "titulo": "SEO Local en L'Hospitalet: Hazte Visible en la Segunda Ciudad de Cataluña",
+      "parrafos": [
+        "L'Hospitalet genera más de 11.000 búsquedas locales mensuales en Google, pero la mayoría del tráfico se lo lleva Barcelona. Este fenómeno, que llamamos 'efecto Barcelona', significa que un vecino de Bellvitge que busca 'dentista cerca de mí' puede ver resultados de Sants o Les Corts antes que de su propio municipio. Nuestro trabajo es invertir esa ecuación.",
+        "La estrategia SEO que aplicamos en L'Hospitalet se basa en hiperlocalización por barrios. Santa Eulàlia, Collblanc, La Torrassa, Bellvitge y La Florida tienen identidades y búsquedas distintas. Creamos contenido y señales locales que posicionan tu negocio en tu barrio específico, donde la competencia digital es mínima y la conversión es máxima.",
+        "Para negocios que atienden a la población multicultural de L'Hospitalet, trabajamos el SEO multiidioma. No basta con traducir: adaptamos los términos de búsqueda a los que realmente usa cada comunidad. Esto abre canales de captación que ningún competidor está aprovechando, porque simplemente no están presentes en esas búsquedas."
+      ]
+    }
+  },
+  {
+    "slug": "sant-cugat-del-valles",
+    "nombre": "Sant Cugat del Vallès",
+    "comarca": "Vallès Occidental",
+    "poblacion": "94.000 habitantes",
+    "cp": "08172–08174",
+    "datoLocal": "Sant Cugat tiene la renta per cápita más alta de Cataluña. Sus residentes buscan servicios premium y valoran la profesionalidad. Una web de calidad no es un lujo, es el mínimo que esperan.",
+    "negociosTipicos": "clínicas de estética, restaurantes gourmet, academias de idiomas, inmobiliarias de lujo",
+    "distanciaBcn": "a 20 minutos de Barcelona por los túneles de Vallvidrera",
+    "municipiosCercanos": ["rubi", "sabadell", "cerdanyola-del-valles", "terrassa"],
+    "excusaLocal": "En Sant Cugat, tus clientes potenciales tienen alto poder adquisitivo y altas expectativas. Si tu web no transmite profesionalidad, perderás la venta antes de empezar.",
+    "historia": "Sant Cugat nació alrededor de un monasterio benedictino del siglo IX. Durante décadas fue un pueblo residencial tranquilo, pero desde los años 90 se ha transformado en una de las ciudades con mayor renta de España. Parques tecnológicos como el de Sant Joan y la proximidad a la UAB atraen profesionales de alto nivel que exigen servicios premium.",
+    "zonaComercial": "la Rambla del Celler y la Plaça Barcelona, con boutiques, restaurantes gourmet y servicios premium",
+    "barrios": ["Centre", "Mira-sol", "La Floresta", "Valldoreix", "Les Planes"],
+    "sectoresDestacados": [
+      { "sector": "Estética y bienestar premium", "detalle": "Sant Cugat concentra clínicas de estética, spas y centros de medicina estética que atienden a un público con alto poder adquisitivo. La exigencia es máxima: sin web profesional con portfolios, certificaciones y cita online, este perfil de cliente no confía." },
+      { "sector": "Restauración gourmet", "detalle": "La oferta gastronómica de Sant Cugat incluye restaurantes de autor, gastrobares y cocina de mercado. Los comensales consultan webs, cartas y reseñas antes de reservar. Una web con fotografía profesional y reservas online es imprescindible." },
+      { "sector": "Inmobiliarias de alto standing", "detalle": "El mercado inmobiliario de Sant Cugat mueve propiedades de alto valor. Los compradores internacionales y profesionales de Barcelona buscan 'pisos Sant Cugat' y 'casas con jardín Vallès'. Las inmobiliarias con web propia y contenido de calidad captan este público premium." },
+      { "sector": "Educación y extraescolares", "detalle": "Familias con alto poder adquisitivo invierten en educación. Academias de idiomas, música, robótica y deporte compiten por captar alumnos cuyos padres investigan a fondo online antes de matricular a sus hijos." }
+    ],
+    "problemaDigital": "El perfil del consumidor de Sant Cugat es exigente: investiga online, compara opciones y valora la imagen profesional. Un negocio sin web o con una web mediocre no solo pierde clientes sino que daña su imagen de marca. En Sant Cugat, una web profesional no es diferenciación, es el mínimo esperado.",
+    "casoExito": {
+      "negocio": "Clínica Estètica Lumière",
+      "sector": "Estética premium",
+      "problema": "Tenía clientas fieles pero no crecía. Su presencia online se limitaba a un perfil de Instagram que no transmitía la exclusividad del centro. Perdía clientas potenciales frente a clínicas de Barcelona con webs sofisticadas.",
+      "solucion": "Web de diseño premium con galería antes/después, certificaciones del equipo médico, sistema de cita previa y blog sobre tratamientos. SEO local para 'clínica estética Sant Cugat' y 'tratamientos faciales Vallès'.",
+      "resultado": "Ha incrementado un 40% la captación de clientas nuevas. El ticket medio ha subido porque las clientas llegan informadas sobre tratamientos premium que antes no conocían."
+    },
+    "estadisticas": {
+      "comerciosOnline": "El 45% de los comercios de Sant Cugat tiene web, el porcentaje más alto de la comarca — pero muchas son webs obsoletas que no transmiten la calidad del negocio",
+      "busquedasMensuales": "4.800 búsquedas mensuales de servicios locales en Sant Cugat — con un ticket medio muy superior a la media",
+      "competidoresDigitales": "El nivel de exigencia del consumidor de Sant Cugat hace que una web mediocre sea peor que no tener web — aquí solo vale una presencia digital profesional"
+    },
+    "testimonioLocal": {
+      "nombre": "Cristina Valls",
+      "negocio": "Restaurante El Claustre, Sant Cugat",
+      "texto": "Nuestra clientela espera excelencia en todo, también en la web. Desde que renovamos la web con carta interactiva, fotos profesionales y reservas online, las reservas de fin de semana se llenan entre lunes y miércoles. Antes llegaban a cuentagotas hasta el jueves."
+    },
+    "ventajasLocales": [
+      "Sant Cugat tiene la renta per cápita más alta de Cataluña — tus clientes tienen presupuesto pero son exigentes con la imagen profesional",
+      "La Rambla del Celler y la Plaça Barcelona son zonas premium donde la competencia digital es directa — tu web es tu escaparate 24 horas",
+      "Valldoreix, Mira-sol y La Floresta son núcleos residenciales con búsquedas locales propias — posicionarte en estos barrios te diferencia de competidores del centro",
+      "Los profesionales que teletrabajan desde Sant Cugat buscan servicios online durante la jornada laboral — tu web capta ese tráfico que no pasa por delante de tu escaparate"
+    ],
+    "faqsUnicas": [
+      {
+        "pregunta": "¿Cuánto cuesta una web profesional en Sant Cugat?",
+        "respuesta": "Nuestros planes van de 490€ a 1.990€. Para negocios de Sant Cugat, recomendamos el Plan Pro (990€) o Total (1.990€) porque el consumidor local espera un nivel de diseño y funcionalidad acorde a la imagen del municipio. Una web básica puede ser contraproducente si tu competencia tiene presencia digital premium."
+      },
+      {
+        "pregunta": "¿Podéis hacer una web que transmita exclusividad para mi clínica de estética?",
+        "respuesta": "Sí, es exactamente lo que hacemos para clientes de Sant Cugat. Diseño visual premium, fotografía profesional de tu centro, galería antes/después y sistema de cita previa. El objetivo es que tu web refleje la misma calidad que experimentan tus clientes cuando entran en tu clínica."
+      },
+      {
+        "pregunta": "¿Cómo posiciono mi restaurante en Sant Cugat frente a los de Barcelona?",
+        "respuesta": "No compites con Barcelona; compites por las búsquedas de Sant Cugat, que tienen un perfil propio. 'Restaurante Sant Cugat', 'cena romántica Vallès' o 'brunch domingos Sant Cugat' son búsquedas que un restaurante local bien posicionado puede dominar sin competir con los 3.000 restaurantes de Barcelona."
+      },
+      {
+        "pregunta": "Tengo una academia en Valldoreix, ¿la web me ayudará a llegar a familias del municipio?",
+        "respuesta": "Sí, y es clave. Las familias de Sant Cugat investigan a fondo online antes de matricular a sus hijos. Buscan 'academia inglés Sant Cugat opiniones', comparan webs y llaman a las 2-3 que les convencen. Si tu web no transmite calidad y confianza, no entras en la shortlist."
+      },
+      {
+        "pregunta": "Mi inmobiliaria en Sant Cugat ya usa portales como Idealista, ¿para qué necesito web propia?",
+        "respuesta": "En Idealista compites con cientos de agencias por los mismos inmuebles. Con web propia, posicionas tu marca para búsquedas como 'casas con jardín Sant Cugat' o 'pisos Mira-sol' y captas leads directos sin pagar comisión al portal. Además, transmites profesionalidad e independencia — algo que el comprador premium de Sant Cugat valora."
+      }
+    ],
+    "contenidoSEO": {
+      "titulo": "SEO Local Premium en Sant Cugat del Vallès",
+      "parrafos": [
+        "El SEO local en Sant Cugat tiene una particularidad: el volumen de búsquedas es menor que en ciudades más grandes, pero el valor por clic es mucho más alto. Un paciente que busca 'clínica estética Sant Cugat' tiene un ticket medio potencial de cientos de euros. Un comprador que busca 'casas Sant Cugat' puede generar una comisión de miles. Cada posición en Google tiene un valor real muy superior al de otros municipios.",
+        "Nuestra estrategia SEO para Sant Cugat trabaja con términos de alta intención y alto valor. No perseguimos volumen de clics sino calidad de leads. Posicionamos tu negocio para búsquedas que indican intención real de compra: 'reservar restaurante Sant Cugat', 'cita clínica estética Mira-sol', 'mejor academia inglés Valldoreix'.",
+        "La zona de Sant Cugat incluye núcleos como Valldoreix, Mira-sol y La Floresta, cada uno con personalidad propia. Creamos contenido que posiciona tu negocio en estas microbúsquedas locales, donde la competencia es mínima y la conversión altísima. Un fisioterapeuta en Mira-sol que aparece primero para 'fisio Mira-sol' capta pacientes que de otro modo irían al centro de Sant Cugat."
+      ]
+    }
+  },
+  {
+    "slug": "rubi",
+    "nombre": "Rubí",
+    "comarca": "Vallès Occidental",
+    "poblacion": "79.000 habitantes",
+    "cp": "08191",
+    "datoLocal": "Rubí combina una fuerte tradición industrial con un creciente sector de servicios. Muchos negocios locales siguen dependiendo solo del boca a boca cuando sus clientes ya buscan online.",
+    "negociosTipicos": "talleres mecánicos, fontaneros, electricistas, restaurantes familiares, comercios de barrio",
+    "distanciaBcn": "a 25 minutos de Barcelona",
+    "municipiosCercanos": ["sant-cugat-del-valles", "terrassa", "castellbisbal", "sabadell"],
+    "excusaLocal": "En Rubí, el boca a boca ya no basta. Tus vecinos buscan fontaneros, talleres y restaurantes en Google. Si no apareces, no existes.",
+    "historia": "Rubí fue un pueblo agrícola que creció con la industrialización del Vallès. Sus fábricas de cerámica y textil atrajeron trabajadores de toda España en los años 60, triplicando la población. Hoy conserva ese carácter de ciudad trabajadora y práctica, con un polígono industrial activo y un sector de servicios en crecimiento que atiende tanto a la industria como a las familias de la ciudad.",
+    "zonaComercial": "la calle Santiago Rusiñol y la Plaça Doctor Guardiet, eje comercial del centro",
+    "barrios": ["Centre", "Les Torres", "Can Fatjó", "Ca n'Oriol", "Castellnou"],
+    "sectoresDestacados": [
+      { "sector": "Oficios y reparaciones", "detalle": "Fontaneros, electricistas, pintores y cerrajeros de Rubí dependen del boca a boca, pero cada vez más vecinos buscan 'fontanero Rubí urgente' o 'electricista cerca de mí' en Google. El primero que aparece se lleva la llamada." },
+      { "sector": "Automoción", "detalle": "El polígono industrial de Rubí concentra talleres mecánicos, chapa y pintura, ITV y concesionarios. Los conductores comparan presupuestos online antes de llevar el coche al taller. Sin web, no entras en la comparación." },
+      { "sector": "Restauración familiar", "detalle": "Rubí tiene una oferta gastronómica centrada en menú del día, cocina casera y restaurantes familiares. Las búsquedas 'dónde comer en Rubí' y 'menú del día Rubí' son constantes entre trabajadores del polígono y residentes." },
+      { "sector": "Comercio de barrio", "detalle": "Panaderías, fruterías, mercerías y tiendas de proximidad son el alma comercial de Rubí. Los vecinos jóvenes consultan Google incluso para compras cotidianas, y los negocios con ficha de Google completa y web captan ese tráfico." }
+    ],
+    "problemaDigital": "Rubí tiene una cultura empresarial muy práctica: 'si funciona, ¿para qué cambiarlo?'. El problema es que ya no funciona igual. Los vecinos menores de 50 años buscan todo en Google, desde el fontanero hasta el restaurante para la comida del domingo. Los negocios que no están online están perdiendo clientes sin darse cuenta.",
+    "casoExito": {
+      "negocio": "Fontanería Rubí Express",
+      "sector": "Servicios del hogar",
+      "problema": "Dependía al 100% de recomendaciones personales. Cuando un cliente necesitaba fontanero urgente un sábado, buscaba en Google y llamaba a otro porque Rubí Express no aparecía.",
+      "solucion": "Web one-page con servicios, precios orientativos, zona de cobertura (Rubí, Sant Cugat, Castellbisbal), teléfono visible y botón de WhatsApp. SEO local para 'fontanero Rubí urgente'.",
+      "resultado": "Las llamadas desde Google representan ahora el 50% del negocio. Los fines de semana y festivos, cuando la gente busca urgencias, el 80% de las llamadas nuevas vienen de la web."
+    },
+    "estadisticas": {
+      "comerciosOnline": "Menos del 20% de los negocios de Rubí tiene web — la brecha digital es la mayor de la comarca del Vallès Occidental",
+      "busquedasMensuales": "3.800 búsquedas mensuales de servicios locales en Rubí — suficientes para llenar la agenda de cualquier profesional",
+      "competidoresDigitales": "Con tan pocos negocios online, posicionarse en Rubí es rápido y asequible. Es el momento de adelantarse a la competencia"
+    },
+    "testimonioLocal": {
+      "nombre": "Antonio García",
+      "negocio": "Taller Mecánico García, polígono Can Fatjó",
+      "texto": "Llevamos 25 años en el polígono y siempre vivimos de los clientes de toda la vida. Pero cada vez venían menos nuevos. Desde que tenemos web y aparecemos en Google Maps con fotos y reseñas, recibimos 3-4 coches nuevos cada semana de gente que busca 'taller mecánico Rubí'. Es otro mundo."
+    },
+    "ventajasLocales": [
+      "En Rubí, menos del 20% de los negocios tiene web — estar online te da una ventaja inmediata sobre el 80% de tu competencia",
+      "Los trabajadores del polígono industrial buscan servicios de restauración y mantenimiento en Google durante la jornada — tu web los capta directamente",
+      "Rubí está entre Sant Cugat y Terrassa, dos ciudades con más competencia digital — posicionar un negocio en Rubí es más rápido y económico",
+      "La cultura práctica de Rubí encaja con nuestro enfoque: webs sencillas que funcionan, sin adornos innecesarios, diseñadas para que el teléfono suene"
+    ],
+    "faqsUnicas": [
+      {
+        "pregunta": "¿Cuánto cuesta una web para un fontanero o electricista en Rubí?",
+        "respuesta": "El Plan Starter (490€) es perfecto para profesionales de oficios en Rubí. Una web one-page con tus servicios, zona de cobertura, teléfono bien visible y botón de WhatsApp. Es todo lo que necesitas para que te encuentren cuando alguien busca 'fontanero Rubí' o 'electricista urgente Rubí'. Inversión recuperada con los primeros 2-3 clientes de Google."
+      },
+      {
+        "pregunta": "Tengo un taller en el polígono Can Fatjó, ¿necesito realmente una web?",
+        "respuesta": "Sí. Los conductores de Rubí y alrededores buscan 'taller mecánico Rubí', 'cambio aceite Rubí precio' o 'taller ITV Rubí' antes de llevar el coche. Si tu taller no aparece, van al que sí aparece. Una web con servicios, precios orientativos y reseñas reales te mete en la partida."
+      },
+      {
+        "pregunta": "¿Pueden encontrarme en Google clientes de Sant Cugat o Terrassa?",
+        "respuesta": "Sí, y es una gran ventaja. Muchos servicios de Rubí (talleres, fontaneros, restaurantes) atienden a clientes de municipios vecinos. Optimizamos tu web para que también aparezcas en búsquedas desde Sant Cugat, Terrassa y Castellbisbal, ampliando tu radio de captación sin abrir otro local."
+      },
+      {
+        "pregunta": "Mi restaurante vive del menú del día para trabajadores del polígono, ¿la web me ayudará?",
+        "respuesta": "Directamente. 'Menú del día Rubí', 'dónde comer Rubí polígono' y 'restaurante cerca polígono Can Fatjó' son búsquedas diarias. Una web simple con tu menú actualizado, precio y horario hace que los trabajadores que aún no te conocen te encuentren. Y una vez vienen, repiten."
+      },
+      {
+        "pregunta": "No tengo tiempo para gestionar una web, ¿la puedo dejar y que funcione sola?",
+        "respuesta": "Precisamente diseñamos webs para profesionales ocupados de Rubí. Una vez publicada, no necesitas tocarla: los servicios están, el teléfono está y Google la muestra. Si contratas mantenimiento (desde 50€/mes), nos encargamos de todo. Tú solo recibes las llamadas."
+      }
+    ],
+    "contenidoSEO": {
+      "titulo": "SEO Local en Rubí: Más Clientes con Menos Competencia Digital",
+      "parrafos": [
+        "Rubí es uno de los municipios del Vallès con menor competencia digital. Menos del 20% de sus negocios tiene web, lo que significa que posicionarse en Google para búsquedas locales es significativamente más fácil y rápido que en Sabadell, Terrassa o Sant Cugat. Para un profesional de Rubí, invertir en SEO local ahora es como alquilar un local en la mejor calle cuando los alquileres aún son bajos.",
+        "Las búsquedas de servicios locales en Rubí tienen un patrón claro: alta intención y baja competencia. Cuando alguien busca 'fontanero Rubí urgente' a las 9 de la noche, necesita ese servicio ya. Si tu web aparece primero, ese cliente es tuyo. Y en Rubí, aparecer primero es mucho más alcanzable que en ciudades vecinas con más competencia online.",
+        "Nuestro enfoque de SEO para Rubí es práctico, como la ciudad: nos centramos en las búsquedas que traen clientes reales. No perseguimos palabras clave bonitas sino términos de acción: 'fontanero urgente', 'taller mecánico presupuesto', 'restaurante menú del día'. Y complementamos con Google Business Profile optimizado, que en Rubí es la herramienta más poderosa para aparecer en el mapa."
+      ]
+    }
+  },
+  {
+    "slug": "cornella-de-llobregat",
+    "nombre": "Cornellà de Llobregat",
+    "comarca": "Baix Llobregat",
+    "poblacion": "90.000 habitantes",
+    "cp": "08940",
+    "datoLocal": "Cornellà, en el corazón del Baix Llobregat, tiene un comercio local activo y bien conectado con Barcelona. La digitalización de sus negocios es clave para competir en el área metropolitana.",
+    "negociosTipicos": "comercios de proximidad, asesorías, peluquerías, restaurantes, tiendas de ropa",
+    "distanciaBcn": "a 15 minutos de Barcelona",
+    "municipiosCercanos": ["hospitalet-de-llobregat", "esplugues-de-llobregat", "sant-joan-despi", "sant-boi-de-llobregat"],
+    "excusaLocal": "Cornellà está a un paso de Barcelona. Tus clientes comparan online antes de comprar. Sin web profesional, ni siquiera entras en la comparación.",
+    "historia": "Cornellà de Llobregat fue una villa agrícola del delta del Llobregat hasta que la industrialización la transformó en los años 50-60. Hoy es una ciudad residencial y comercial moderna, con el Centro Comercial Splau como referente de compras del Baix Llobregat. La sede de marcas como Sharp y la cercanía a la Zona Franca la mantienen como punto estratégico del área metropolitana sur.",
+    "zonaComercial": "la calle Prat de la Riba y el entorno de la Plaça de l'Església, además del Centro Comercial Splau en su límite norte",
+    "barrios": ["Centre", "Almeda", "Sant Ildefons", "La Gavarra", "Riera"],
+    "sectoresDestacados": [
+      { "sector": "Asesorías y servicios profesionales", "detalle": "La actividad empresarial del Baix Llobregat genera demanda constante de gestorías, asesorías fiscales y laborales. Los autónomos y pymes de Cornellà buscan estos servicios en Google y comparan antes de contratar." },
+      { "sector": "Peluquerías y estética", "detalle": "Cornellà tiene una alta densidad de peluquerías y centros de estética. La competencia es local y directa: los vecinos buscan 'peluquería Cornellà opiniones' y eligen por reseñas, fotos de trabajos y precios visibles en web." },
+      { "sector": "Restauración y bares", "detalle": "La zona de Prat de la Riba y el centro concentran bares de tapas, restaurantes y locales de brunch que compiten con la oferta del cercano L'Hospitalet. Diferenciarse online es clave para no perder clientes que 'se van' al municipio vecino." },
+      { "sector": "Comercio de proximidad", "detalle": "Las tiendas de barrio de Sant Ildefons, Almeda y La Gavarra luchan contra Splau con un arma que el centro comercial no tiene: proximidad y trato personal. Pero necesitan web para que los vecinos que buscan en Google los encuentren antes que a Splau." }
+    ],
+    "problemaDigital": "Cornellà está entre dos fuerzas: Barcelona por un lado y el Centro Comercial Splau por otro. Los negocios locales que no tienen presencia digital pierden clientes en ambas direcciones. Los que buscan en Google encuentran Barcelona o Splau; el comercio de barrio de Cornellà queda invisible.",
+    "casoExito": {
+      "negocio": "Perruqueria Marta",
+      "sector": "Belleza",
+      "problema": "Tenía clientas fieles del barrio de Almeda pero no crecía. Las vecinas jóvenes buscaban 'peluquería Cornellà balayage' o 'mechas Cornellà' en Google y encontraban competidoras con web y fotos de trabajos.",
+      "solucion": "Web con galería de trabajos antes/después, lista de servicios con precios, sistema de cita previa y perfil de Google Business con fotos actualizadas semanalmente.",
+      "resultado": "Ha duplicado las clientas nuevas en 4 meses. El 60% de las nuevas clientas viene de Google y tiene un ticket medio más alto porque llegan sabiendo qué tratamiento quieren."
+    },
+    "estadisticas": {
+      "comerciosOnline": "El 27% de los comercios de Cornellà tiene web — el resto compite con desventaja frente a Barcelona y Splau",
+      "busquedasMensuales": "4.200 búsquedas mensuales de servicios locales en Cornellà de Llobregat",
+      "competidoresDigitales": "Splau acapara búsquedas genéricas de compras — los comercios independientes de Cornellà necesitan SEO local para existir en Google"
+    },
+    "testimonioLocal": {
+      "nombre": "Pere Soler",
+      "negocio": "Assessoria Soler, Cornellà de Llobregat",
+      "texto": "Pensaba que una asesoría no necesitaba web, que todo venía por recomendación. Pero cuando un cliente me dijo que casi contrató otra porque 'busqué en Google y tú no salías', entendí el problema. Ahora salimos primeros para 'asesoría Cornellà' y cada mes llegan 4-5 clientes nuevos por la web."
+    },
+    "ventajasLocales": [
+      "Cornellà tiene 90.000 habitantes con acceso directo al metro y tren — tus clientes buscan servicios locales online antes de salir de casa",
+      "El Centro Comercial Splau absorbe búsquedas genéricas, pero los comercios especializados de Cornellà pueden dominar las búsquedas específicas de barrio",
+      "A 15 minutos de Barcelona, Cornellà atrae residentes jóvenes con hábitos 100% digitales — si no tienes web, no existes para este perfil",
+      "Los barrios de Sant Ildefons y Almeda tienen comunidad propia y búsquedas locales que nadie está trabajando en SEO"
+    ],
+    "faqsUnicas": [
+      {
+        "pregunta": "¿Cuánto cuesta una web para un comercio en Cornellà?",
+        "respuesta": "Desde 490€ para una web profesional. Para comercios de Cornellà que compiten con Splau y Barcelona, el Plan Pro (990€) incluye SEO local que posiciona tu negocio para búsquedas específicas de Cornellà. Es la forma de que Google muestre tu tienda antes que el centro comercial."
+      },
+      {
+        "pregunta": "¿Cómo compito con el Centro Comercial Splau si tengo una tienda pequeña?",
+        "respuesta": "No compites con Splau en general; compites en tu nicho. Splau no tiene peluquería de barrio, ni asesor fiscal de confianza, ni restaurante con menú casero. Las búsquedas específicas como 'peluquería Cornellà' o 'asesoría fiscal Baix Llobregat' son tuyas si tienes web. Splau no aparece en esas búsquedas."
+      },
+      {
+        "pregunta": "Mi asesoría está en Sant Ildefons, ¿puedo captar clientes de todo Cornellà?",
+        "respuesta": "Sí, y de municipios vecinos también. Con SEO local, posicionamos tu asesoría para búsquedas desde cualquier barrio de Cornellà y desde Esplugues, Sant Joan Despí o L'Hospitalet. El resultado: amplías tu radio de captación sin moverte de tu despacho."
+      },
+      {
+        "pregunta": "¿La web me ayudará a captar clientes jóvenes que se mudan a Cornellà?",
+        "respuesta": "Exactamente. Los nuevos residentes de Cornellà (jóvenes que buscan pisos más asequibles que Barcelona) buscan todos los servicios en Google: peluquería, dentista, restaurante, gestoría. Son clientes que no tienen referencia previa y eligen 100% por lo que encuentran online."
+      },
+      {
+        "pregunta": "¿Hacéis webs para restaurantes de Cornellà con sistema de reservas?",
+        "respuesta": "Sí, incluimos sistema de reservas online en los planes Pro y Total. Para restaurantes de Cornellà es especialmente útil porque permite competir con la oferta de L'Hospitalet y Barcelona ofreciendo la comodidad de reservar con un clic. Además, integramos la carta digital para que los clientes vean qué ofreces antes de reservar."
+      }
+    ],
+    "contenidoSEO": {
+      "titulo": "Posicionamiento SEO Local en Cornellà de Llobregat",
+      "parrafos": [
+        "Cornellà tiene un ecosistema de búsquedas locales propio que muchos negocios desconocen. Cada mes, 4.200 personas buscan servicios específicos en Cornellà desde Google. No buscan 'Barcelona', buscan 'Cornellà'. Desde 'peluquería Cornellà opiniones' hasta 'asesoría fiscal Cornellà precios', son búsquedas con alta intención de compra y un radio de acción local.",
+        "El principal desafío SEO en Cornellà es la competencia doble: Barcelona absorbe tráfico por un lado y Splau por otro. Nuestra estrategia se centra en posicionar tu negocio para las búsquedas que ni Barcelona ni Splau pueden atender: servicios locales, comercio de proximidad y profesionales de confianza. Cuando alguien busca 'gestoría Cornellà', no quiere ir a Barcelona; quiere un profesional cerca de casa.",
+        "Trabajamos el SEO de Cornellà a nivel de barrio: Sant Ildefons, Almeda, La Gavarra y Centre tienen perfiles de búsqueda distintos. Creamos contenido y señales locales que posicionan tu negocio en tu barrio, donde eres fuerte, y desde ahí expandimos al resto del municipio. Es una estrategia que funciona especialmente bien en ciudades de 90.000 habitantes como Cornellà."
+      ]
+    }
+  },
+  {
+    "slug": "castelldefels",
+    "nombre": "Castelldefels",
+    "comarca": "Baix Llobregat",
+    "poblacion": "67.000 habitantes",
+    "cp": "08860",
+    "datoLocal": "Castelldefels es sinónimo de playa y calidad de vida. Su sector hostelero y de servicios turísticos tiene un potencial digital enorme, especialmente en temporada alta cuando las búsquedas locales se multiplican.",
+    "negociosTipicos": "restaurantes de playa, hoteles, inmobiliarias, escuelas de deportes acuáticos, centros de bienestar",
+    "distanciaBcn": "a 20 minutos de Barcelona por la C-31",
+    "municipiosCercanos": ["gava", "viladecans", "el-prat-de-llobregat", "sitges"],
+    "excusaLocal": "En Castelldefels, el turismo y los nuevos residentes buscan todo en Google. Restaurantes, servicios, ocio... Si no te encuentran online, estás perdiendo negocio real cada temporada.",
+    "historia": "Castelldefels creció alrededor de su castillo medieval y su larga playa de 5 kilómetros. Durante décadas fue destino de veraneo de los barceloneses, pero hoy es una ciudad residencial consolidada con una fuerte comunidad internacional. Jugadores del FC Barcelona, expatriados europeos y familias que buscan playa y buenas escuelas han convertido Castelldefels en uno de los municipios con mayor diversidad y poder adquisitivo del Baix Llobregat.",
+    "zonaComercial": "el paseo Marítimo y la avenida de la Constitución, eje del comercio del centro urbano",
+    "barrios": ["Playa", "Centro", "Vista Alegre", "Montmar", "Bellamar"],
+    "sectoresDestacados": [
+      { "sector": "Hostelería y restauración de playa", "detalle": "Los 5 km de playa de Castelldefels concentran chiringuitos, restaurantes de arroces y locales de cocina mediterránea. En verano, 'restaurante playa Castelldefels' es una de las búsquedas más populares de la zona y solo los que tienen web con carta y reservas captan ese tráfico." },
+      { "sector": "Deportes acuáticos y ocio", "detalle": "Escuelas de kitesurf, paddle surf, vela y deportes de playa operan en Castelldefels. Su clientela es joven, digital y reserva online. Sin web, estas escuelas son invisibles para turistas que planifican desde casa." },
+      { "sector": "Inmobiliarias y alquiler vacacional", "detalle": "Castelldefels atrae compradores internacionales y barceloneses que buscan calidad de vida. Las inmobiliarias con web multiidioma (español, inglés, francés) captan un mercado que las que solo operan con cartel en la puerta nunca alcanzan." },
+      { "sector": "Bienestar y centros de salud", "detalle": "Spas, centros de yoga, fisioterapeutas y clínicas estéticas atienden a una población con alto interés en bienestar. Buscan 'spa Castelldefels', 'yoga cerca de la playa' o 'masaje deportivo Castelldefels' y esperan poder reservar online." }
+    ],
+    "problemaDigital": "Castelldefels tiene dos públicos: los residentes permanentes y los visitantes estacionales. Los residentes buscan servicios en Google todo el año; los visitantes buscan en verano y fines de semana. Los negocios sin web pierden ambos públicos, pero el impacto estacional es devastador: en junio-septiembre, las búsquedas se multiplican por 3 y quien no está online deja miles de euros sobre la mesa.",
+    "casoExito": {
+      "negocio": "KiteCast School",
+      "sector": "Deportes acuáticos",
+      "problema": "Captaba alumnos a pie de playa y por Instagram, pero perdía reservas frente a escuelas de Barcelona y Tarragona que aparecían primero en Google con web completa y sistema de reservas.",
+      "solucion": "Web multiidioma (español, inglés, francés) con calendario de disponibilidad, reserva y pago online, galería de fotos y vídeos, y blog con contenido sobre condiciones de viento en Castelldefels.",
+      "resultado": "Incremento del 70% en reservas en la primera temporada con web. El 40% de los nuevos alumnos son extranjeros que reservan desde su país antes de viajar."
+    },
+    "estadisticas": {
+      "comerciosOnline": "El 33% de los negocios de Castelldefels tiene web — pero muchas son webs obsoletas que no tienen reservas online ni están optimizadas para móvil",
+      "busquedasMensuales": "5.100 búsquedas mensuales de servicios locales en Castelldefels — cifra que se triplica en verano",
+      "competidoresDigitales": "En temporada alta, los negocios sin web de Castelldefels pierden frente a Barcelona y Sitges, que sí tienen presencia digital fuerte"
+    },
+    "testimonioLocal": {
+      "nombre": "Sophie Dubois",
+      "negocio": "Restaurant Le Marais, paseo marítimo de Castelldefels",
+      "texto": "Somos un restaurante francés en la playa de Castelldefels. Nuestra clientela es internacional y reserva todo online. Desde que tenemos web en tres idiomas con reservas, los fines de semana llenamos sin esfuerzo. En verano, el 80% de las reservas viene de Google. Sin web, habríamos cerrado en invierno."
+    },
+    "ventajasLocales": [
+      "Los 5 km de playa de Castelldefels generan un tráfico turístico masivo en verano — una web posicionada capta visitantes que buscan 'restaurante playa Castelldefels' desde el hotel o la playa",
+      "La comunidad internacional de Castelldefels (expatriados, jugadores de fútbol, familias europeas) busca servicios en inglés y francés — una web multiidioma abre un mercado que tus competidores ignoran",
+      "Castelldefels tiene estacionalidad pero una web trabaja 365 días — el SEO local construido en invierno explota en verano cuando las búsquedas se multiplican",
+      "La zona de Bellamar y Montmar tiene un perfil residencial premium con búsquedas locales propias que nadie está trabajando en SEO"
+    ],
+    "faqsUnicas": [
+      {
+        "pregunta": "¿Cuánto cuesta una web para mi restaurante de playa en Castelldefels?",
+        "respuesta": "Desde 490€ para una web básica. Para restaurantes del paseo marítimo de Castelldefels, recomendamos el Plan Pro (990€) que incluye carta digital, sistema de reservas, galería de fotos y versión en inglés. En verano, esta inversión se recupera en una semana de reservas online adicionales."
+      },
+      {
+        "pregunta": "¿Puedo tener la web en varios idiomas para captar turistas?",
+        "respuesta": "Sí, y en Castelldefels es casi imprescindible. Creamos webs en español, catalán, inglés y francés. Para negocios del paseo marítimo o escuelas de deportes, el multiidioma multiplica la captación. El Plan Pro incluye 2 idiomas; el Total, hasta 4."
+      },
+      {
+        "pregunta": "Mi negocio es estacional, ¿vale la pena invertir en web?",
+        "respuesta": "Precisamente por la estacionalidad. El SEO necesita semanas para posicionar. Si empiezas en junio, no estarás posicionado hasta agosto (cuando la temporada ya termina). Si inviertes en web y SEO en enero-marzo, llegas a junio ya posicionado y capturas todo el tráfico de verano. Es una inversión de invierno que rinde en verano."
+      },
+      {
+        "pregunta": "Tengo una escuela de paddle surf en Castelldefels, ¿me ayudará la web?",
+        "respuesta": "Enormemente. Los turistas planifican actividades desde casa: buscan 'paddle surf Castelldefels', comparan precios y reservan online antes de llegar. Sin web con reservas, pierdes esos clientes frente a escuelas que sí permiten reservar con un clic. Además, puedes vender bonos y packs online en temporada baja."
+      },
+      {
+        "pregunta": "¿Trabajáis con inmobiliarias de Castelldefels?",
+        "respuesta": "Sí, y es un sector con altísimo retorno. Los compradores internacionales que buscan propiedad en Castelldefels investigan online desde sus países. Una web inmobiliaria en español e inglés con buenas fotos y descripción de la zona (playa, colegios, servicios) capta leads que ningún cartel en la calle puede generar."
+      }
+    ],
+    "contenidoSEO": {
+      "titulo": "SEO Local en Castelldefels: Capta Turistas y Residentes Todo el Año",
+      "parrafos": [
+        "Castelldefels tiene un patrón de búsquedas estacional muy marcado: 5.100 búsquedas locales mensuales que se triplican entre junio y septiembre. 'Restaurante playa Castelldefels', 'kitesurf Castelldefels', 'alquiler vacacional Castelldefels playa' — son búsquedas de alto valor porque el usuario está listo para gastar. El negocio que aparece primero convierte; los demás ni existen.",
+        "Nuestra estrategia SEO para Castelldefels tiene dos fases: base invernal y explotación estival. En invierno, construimos la web, generamos contenido y posicionamos para las búsquedas clave. En verano, el trabajo rinde: tu web ya está posicionada cuando el tráfico de búsquedas se multiplica. Es como preparar el campo antes de la cosecha.",
+        "El componente internacional de Castelldefels añade una capa extra: trabajamos el SEO en español e inglés (y francés si el público lo requiere). Esto no solo capta turistas sino también expatriados residentes que buscan servicios en su idioma. Un fisioterapeuta de Castelldefels con web en inglés puede captar toda la comunidad internacional de Bellamar y Montmar, un mercado que sus competidores simplemente no ven."
+      ]
+    }
+  },
+  {
+    "slug": "granollers",
+    "nombre": "Granollers",
+    "comarca": "Vallès Oriental",
+    "poblacion": "62.000 habitantes",
+    "cp": "08400–08402",
+    "datoLocal": "Capital del Vallès Oriental, Granollers es un polo comercial que atrae a compradores de toda la comarca. Su mercado semanal es famoso, pero el mercado digital es donde se juega el futuro.",
+    "negociosTipicos": "tiendas de alimentación, ferreterías, ópticas, abogados, autoescuelas",
+    "distanciaBcn": "a 35 minutos de Barcelona por la AP-7",
+    "municipiosCercanos": ["les-franqueses-del-valles", "canovelles", "la-roca-del-valles", "cardedeu"],
+    "excusaLocal": "Granollers es la referencia comercial del Vallès Oriental. Si tu negocio no aparece cuando alguien busca tus servicios en Google, estás invisible para miles de clientes potenciales.",
+    "historia": "Granollers es capital del Vallès Oriental desde la Edad Media, cuando su mercado semanal de los jueves ya era punto de referencia comarcal. La ciudad sufrió un bombardeo devastador en 1938 durante la Guerra Civil, pero se reconstruyó manteniendo su carácter comercial. Hoy, ese mercado semanal sigue siendo el más grande de la comarca y la ciudad conserva su papel de centro de servicios y compras para todo el Vallès Oriental.",
+    "zonaComercial": "la Porxada y las calles peatonales del centro, donde se celebra el mercado de los jueves",
+    "barrios": ["Centre", "Congost", "Lledoner", "Can Bassa", "Palou"],
+    "sectoresDestacados": [
+      { "sector": "Comercio de mercado y alimentación", "detalle": "El mercado de los jueves de Granollers y el mercado municipal son referencia comarcal. Paradas de alimentación, productores locales y tiendas gourmet compiten por mantener la clientela frente a los supermercados. Una web con productos y pedidos online los mantiene relevantes." },
+      { "sector": "Servicios profesionales", "detalle": "Como capital comarcal, Granollers concentra abogados, notarías, asesorías y gestorías que sirven a todo el Vallès Oriental. El profesional que aparece primero en Google para 'abogado Granollers' o 'gestoría Vallès Oriental' capta clientes de 20 municipios." },
+      { "sector": "Autoescuelas y formación", "detalle": "Granollers es sede de examen de la DGT para el Vallès Oriental. Las autoescuelas compiten intensamente por alumnos que buscan 'autoescuela Granollers precio' o 'autoescuela barata Vallès'. Las que tienen web con precios y tasa de aprobados captan más alumnos." },
+      { "sector": "Ópticas y salud visual", "detalle": "El Vallès Oriental tiene una concentración alta de ópticas independientes. En Granollers compiten con cadenas como Multiópticas u Óptica Universitaria. La diferenciación online (web con catálogo, cita previa y servicio personalizado) es su arma." }
+    ],
+    "problemaDigital": "Granollers atrae compradores de toda la comarca los jueves de mercado, pero el resto de la semana el tráfico depende de que los vecinos de Canovelles, Les Franqueses o Cardedeu elijan venir a Granollers. Cada vez más, esa decisión se toma en Google. Los negocios sin web dependen del mercado semanal; los que tienen web captan clientes los 7 días.",
+    "casoExito": {
+      "negocio": "Autoescola Vallès",
+      "sector": "Formación vial",
+      "problema": "Perdía alumnos frente a autoescuelas que anunciaban precios en web y en Google Ads. Los alumnos buscaban 'autoescuela Granollers precio' y llamaban a las 2-3 primeras que aparecían.",
+      "solucion": "Web con precios transparentes, packs de clases, tasa de aprobados, testimonios de alumnos y formulario de inscripción. SEO local para 'autoescuela Granollers' y 'carnet de conducir Vallès Oriental'.",
+      "resultado": "Las inscripciones han subido un 45% en 6 meses. El 55% de los nuevos alumnos llega por la web. Ha empezado a captar alumnos de La Roca, Cardedeu y Les Franqueses que antes iban a autoescuelas de Barcelona."
+    },
+    "estadisticas": {
+      "comerciosOnline": "El 30% de los comercios de Granollers tiene web — como capital comarcal, el potencial de captar clientes de toda la comarca está desaprovechado",
+      "busquedasMensuales": "3.600 búsquedas mensuales de servicios locales en Granollers y el Vallès Oriental",
+      "competidoresDigitales": "El 70% de las búsquedas de 'servicios Vallès Oriental' recaen en Granollers — si tu negocio está aquí y tiene web, captas tráfico comarcal"
+    },
+    "testimonioLocal": {
+      "nombre": "Montse Ferrer",
+      "negocio": "Óptica Ferrer, centro de Granollers",
+      "texto": "Competíamos con Multiópticas y perdíamos. Desde que tenemos web con catálogo, cita previa online y contenido sobre salud visual, los clientes que entran vienen informados y confían más. Hemos recuperado clientes que se habían ido a cadenas. La web nos ha devuelto la competitividad."
+    },
+    "ventajasLocales": [
+      "Granollers es capital del Vallès Oriental y referencia comercial para 20 municipios — tu web puede captar clientes de toda la comarca, no solo de la ciudad",
+      "El mercado de los jueves atrae visitantes presenciales, pero el mercado digital funciona los 7 días de la semana, 24 horas — tu web no cierra nunca",
+      "Como sede de examen de la DGT y centro de servicios comarcal, Granollers concentra búsquedas de alto valor desde municipios vecinos",
+      "La competencia digital en Granollers es aún baja comparada con Barcelona — posicionarse ahora es más rápido y asequible"
+    ],
+    "faqsUnicas": [
+      {
+        "pregunta": "¿Cuánto cuesta una web para un negocio en Granollers?",
+        "respuesta": "Desde 490€ para una web profesional. Para negocios de Granollers que atienden a toda la comarca (abogados, asesorías, autoescuelas), recomendamos el Plan Pro (990€) con SEO local que posiciona para búsquedas del Vallès Oriental, no solo de Granollers."
+      },
+      {
+        "pregunta": "¿Puedo captar clientes de Canovelles, Les Franqueses o Cardedeu con mi web?",
+        "respuesta": "Sí, y esa es precisamente la mayor ventaja de tener web en Granollers. Como capital comarcal, cuando alguien en La Roca o Cardedeu busca un servicio que no encuentra en su pueblo, la siguiente búsqueda incluye 'Granollers' o 'Vallès Oriental'. Tu web capta ese tráfico comarcal que hoy no estás aprovechando."
+      },
+      {
+        "pregunta": "Tengo un puesto en el mercado de los jueves, ¿me sirve una web?",
+        "respuesta": "Sí, por dos razones. Primera: puedes ofrecer pedidos y reservas online para que los clientes compren tu producto sin esperar al jueves. Segunda: una web con tu historia, productos y fotos fideliza clientes que van al mercado y te da visibilidad frente a compradores que buscan 'productos locales Granollers' o 'mercado Granollers horario'."
+      },
+      {
+        "pregunta": "Mi autoescuela en Granollers compite con varias otras, ¿la web me diferenciará?",
+        "respuesta": "Es lo que más te diferenciará. Los alumnos buscan 'autoescuela Granollers precio', 'autoescuela Granollers opiniones' y 'tasa de aprobados'. Si tu web tiene precios claros, testimonios reales y tu tasa de aprobados, conviertes visitas en inscripciones. Las autoescuelas sin web compiten con un brazo atado."
+      },
+      {
+        "pregunta": "¿Mi óptica puede competir con cadenas como Multiópticas teniendo web?",
+        "respuesta": "Sí. Las cadenas tienen web genérica; tú puedes tener web local. 'Óptica Granollers' busca gente que quiere trato personalizado, no la cadena de turno. Si tu web muestra tu experiencia, catálogo, servicios de optometría y cita previa, captas al cliente que valora la atención personal — que en Granollers es la mayoría."
+      }
+    ],
+    "contenidoSEO": {
+      "titulo": "SEO Comarcal en Granollers: Domina el Vallès Oriental desde tu Negocio",
+      "parrafos": [
+        "Granollers tiene una ventaja SEO única: como capital del Vallès Oriental, las búsquedas de servicios de toda la comarca aterrizan aquí. Cuando alguien en Canovelles, Les Franqueses, La Roca o Cardedeu busca un servicio profesional y no lo encuentra en su pueblo, busca 'en Granollers'. Si tu web está posicionada para esas búsquedas comarcales, capturas clientes de un radio de 20 km sin moverte de tu local.",
+        "Nuestra estrategia SEO para Granollers trabaja en dos niveles: posicionamiento municipal ('abogado Granollers', 'autoescuela Granollers precio') y posicionamiento comarcal ('asesoría fiscal Vallès Oriental', 'óptica cerca Vallès'). Esta doble capa maximiza tu alcance y te convierte en referencia digital para toda la comarca, igual que el mercado de los jueves es referencia presencial.",
+        "El factor estacional del mercado de Granollers también se trabaja en SEO. Las búsquedas de 'mercado Granollers', 'qué comprar en el mercado de Granollers' y 'productos locales Vallès' tienen picos semanales que podemos capitalizar con contenido específico. Para comercios y paradas de mercado, esto significa captar clientes antes de que lleguen al mercado — y también los días que no hay mercado."
+      ]
+    }
+  }
+]

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" fill="none">
+  <rect width="200" height="48" rx="6" fill="#fff"/>
+  <g transform="translate(8,8)">
+    <path d="M16.32 13.34c0-.76-.07-1.53-.2-2.28H8.32v4.32h4.5a3.84 3.84 0 0 1-1.67 2.52v2.1h2.7c1.58-1.46 2.49-3.6 2.49-6.14l-.02-.52z" fill="#4285F4"/>
+    <path d="M8.32 20c2.26 0 4.16-.75 5.55-2.03l-2.7-2.1c-.75.5-1.71.8-2.85.8a4.97 4.97 0 0 1-4.68-3.44H.84v2.17A8.32 8.32 0 0 0 8.32 20z" fill="#34A853"/>
+    <path d="M3.64 13.23a5.02 5.02 0 0 1 0-3.17V7.89H.84a8.34 8.34 0 0 0 0 7.52l2.8-2.18z" fill="#FBBC04"/>
+    <path d="M8.32 4.62c1.28 0 2.43.44 3.33 1.3l2.5-2.5A7.98 7.98 0 0 0 8.32 1a8.32 8.32 0 0 0-7.48 4.62l2.8 2.17A4.97 4.97 0 0 1 8.32 4.62z" fill="#EA4335"/>
+  </g>
+  <text x="36" y="20" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#5F6368">Google</text>
+  <text x="36" y="35" font-family="Arial,sans-serif" font-size="11" font-weight="bold" fill="#5F6368">Partner</text>
+</svg>
