@@ -35,6 +35,7 @@ export default function DisenoWebPage() {
         title="Diseño Web Profesional"
         highlight="para tu negocio"
         subtitle="No hacemos webs bonitas que nadie ve. Hacemos webs que aparecen en Google y traen clientes. Desde 490€, en 2-3 semanas."
+        bgImage="/images/servicio-code.jpg"
       />
 
       <Container className="py-4">

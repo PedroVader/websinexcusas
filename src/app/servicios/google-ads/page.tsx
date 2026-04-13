@@ -55,6 +55,7 @@ export default function GoogleAdsPage() {
         title="Google Ads para"
         highlight="Negocios Locales"
         subtitle="Aparece en los primeros resultados de Google desde el día uno. Campañas locales optimizadas para que cada euro cuente. Desde 200€/mes."
+        bgImage="/images/servicio-ai.jpg"
       />
 
       <Container className="py-4">

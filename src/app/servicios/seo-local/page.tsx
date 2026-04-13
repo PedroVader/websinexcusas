@@ -58,6 +58,7 @@ export default function SEOLocalPage() {
         title="SEO Local en Barcelona"
         highlight="— Que te Encuentren en Google"
         subtitle="Tus clientes buscan tus servicios en Google. Si no apareces, se van a tu competencia. Así de simple. Desde 150€/mes."
+        bgImage="/images/servicio-ai.jpg"
       />
 
       <Container className="py-4">

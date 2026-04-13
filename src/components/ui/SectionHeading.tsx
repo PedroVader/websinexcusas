@@ -28,15 +28,25 @@ export function SectionHeading({
       <>
         {before}
         <span className="text-brand">
-          {highlight.split("").map((char, i) => (
-            <span
-              key={i}
-              className="inline-block brand-letter"
-              style={{ animationDelay: `${0.3 + i * 0.04}s` }}
-            >
-              {char === " " ? "\u00A0" : char}
-            </span>
-          ))}
+          {highlight.split(" ").map((word, wi, words) => {
+            const charOffset = words
+              .slice(0, wi)
+              .reduce((acc, w) => acc + w.length + 1, 0);
+            return (
+              <span key={wi} className="inline-block whitespace-nowrap">
+                {word.split("").map((char, ci) => (
+                  <span
+                    key={ci}
+                    className="inline-block brand-letter"
+                    style={{ animationDelay: `${0.3 + (charOffset + ci) * 0.04}s` }}
+                  >
+                    {char}
+                  </span>
+                ))}
+                {wi < words.length - 1 && "\u00A0"}
+              </span>
+            );
+          })}
         </span>
         {after}
       </>

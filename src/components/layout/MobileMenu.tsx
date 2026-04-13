@@ -3,9 +3,9 @@
 import { useState } from "react";
 import Link from "next/link";
 import { Button } from "@/components/ui/Button";
+import { ServiciosMobileList } from "./ServiciosDropdown";
 
 const navLinks = [
-  { href: "/servicios", label: "Servicios" },
   { href: "/portfolio", label: "Portfolio" },
   { href: "/sobre-nosotros", label: "Sobre Nosotros" },
   { href: "/contacto", label: "Contacto" },
@@ -35,6 +35,7 @@ export function MobileMenu() {
       {isOpen && (
         <div className="absolute left-0 right-0 top-full bg-white shadow-lg border-t border-gray-200 z-50">
           <nav className="flex flex-col p-4 gap-2">
+            <ServiciosMobileList onClose={() => setIsOpen(false)} />
             {navLinks.map((link) => (
               <Link
                 key={link.href}

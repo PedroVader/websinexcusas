@@ -1,9 +1,9 @@
 import Link from "next/link";
 import { Button } from "@/components/ui/Button";
+import { ServiciosDropdown } from "./ServiciosDropdown";
 import { MobileMenu } from "./MobileMenu";
 
 const navLinks = [
-  { href: "/servicios", label: "Servicios" },
   { href: "/portfolio", label: "Portfolio" },
   { href: "/sobre-nosotros", label: "Sobre Nosotros" },
   { href: "/contacto", label: "Contacto" },
@@ -21,6 +21,7 @@ export function Header() {
           </Link>
 
           <nav className="hidden lg:flex items-center gap-8">
+            <ServiciosDropdown />
             {navLinks.map((link) => (
               <Link
                 key={link.href}

@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { CheckCircle } from "@phosphor-icons/react/dist/ssr";
 import { generatePageMetadata } from "@/lib/metadata";
+import { Hero } from "@/components/sections/Hero";
 import { Container } from "@/components/ui/Container";
 import { Breadcrumbs } from "@/components/layout/Breadcrumbs";
 import { Card } from "@/components/ui/Card";
@@ -14,6 +16,15 @@ export const metadata: Metadata = generatePageMetadata({
     "Mira las webs que hemos creado para negocios locales de Barcelona. Restaurantes, clínicas, talleres y más.",
   path: "/portfolio",
 });
+
+const coverImages = [
+  "/images/servicio-code.jpg",
+  "/images/servicio-ai.jpg",
+  "/images/servicios-bg.jpg",
+  "/images/hero-bg.jpg",
+  "/images/servicio-code.jpg",
+  "/images/servicio-ai.jpg",
+];
 
 const proyectos: ProyectoPortfolio[] = [
   {
@@ -69,17 +80,12 @@ const proyectos: ProyectoPortfolio[] = [
 export default function PortfolioPage() {
   return (
     <>
-      <section className="bg-dark text-light py-16">
-        <Container>
-          <h1 className="text-4xl font-bold font-heading sm:text-5xl">
-            Nuestro <span className="text-brand">Portfolio</span>
-          </h1>
-          <p className="mt-4 text-lg text-gray-300 max-w-2xl">
-            Webs reales para negocios reales. Cada proyecto tiene un objetivo:
-            traer más clientes.
-          </p>
-        </Container>
-      </section>
+      <Hero
+        title="Nuestro"
+        highlight="Portfolio"
+        subtitle="Webs reales para negocios reales. Cada proyecto tiene un objetivo: traer más clientes."
+        bgImage="/images/servicio-code.jpg"
+      />
 
       <Container className="py-4">
         <Breadcrumbs items={[{ label: "Portfolio" }]} />
@@ -88,10 +94,15 @@ export default function PortfolioPage() {
       <section className="py-16">
         <Container>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {proyectos.map((proyecto) => (
+            {proyectos.map((proyecto, i) => (
               <Card key={proyecto.titulo}>
-                <div className="aspect-video bg-gray-100 rounded-lg mb-4 flex items-center justify-center">
-                  <span className="text-gray-400 text-sm">Preview del proyecto</span>
+                <div className="relative aspect-video rounded-lg mb-4 overflow-hidden bg-gray-100">
+                  <Image
+                    src={coverImages[i % coverImages.length]}
+                    alt={proyecto.titulo}
+                    fill
+                    className="object-cover"
+                  />
                 </div>
                 <div className="flex gap-2 mb-3">
                   <Badge variant="brand">{proyecto.sector}</Badge>

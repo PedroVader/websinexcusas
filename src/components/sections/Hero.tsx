@@ -63,15 +63,25 @@ export function Hero({
                 <>
                   {" "}
                   <span className="text-brand">
-                    {highlight.split("").map((char, i) => (
-                      <span
-                        key={i}
-                        className="inline-block animate-[hero-letter_0.4s_ease-out_both]"
-                        style={{ animationDelay: `${0.6 + i * 0.05}s` }}
-                      >
-                        {char === " " ? "\u00A0" : char}
-                      </span>
-                    ))}
+                    {highlight.split(" ").map((word, wi, words) => {
+                      const charOffset = words
+                        .slice(0, wi)
+                        .reduce((acc, w) => acc + w.length + 1, 0);
+                      return (
+                        <span key={wi} className="inline-block whitespace-nowrap">
+                          {word.split("").map((char, ci) => (
+                            <span
+                              key={ci}
+                              className="inline-block animate-[hero-letter_0.4s_ease-out_both]"
+                              style={{ animationDelay: `${0.6 + (charOffset + ci) * 0.05}s` }}
+                            >
+                              {char}
+                            </span>
+                          ))}
+                          {wi < words.length - 1 && "\u00A0"}
+                        </span>
+                      );
+                    })}
                   </span>
                 </>
               )}

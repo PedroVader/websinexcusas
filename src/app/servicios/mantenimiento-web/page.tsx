@@ -65,6 +65,7 @@ export default function MantenimientoWebPage() {
         title="Mantenimiento Web"
         highlight="— Tú Céntrate en tu Negocio"
         subtitle="Nos encargamos de que tu web esté siempre actualizada, segura y funcionando. Tú dedica tu tiempo a lo que importa: tus clientes. Desde 50€/mes."
+        bgImage="/images/servicio-code.jpg"
       />
 
       <Container className="py-4">
