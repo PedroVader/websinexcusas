@@ -9,8 +9,8 @@ export const siteConfig = {
   cif: "B22579866",
   sede: "Sabadell, Barcelona",
   direccion: "Calle de l'Alcarria, 22 - P. 1 Pta. 4, 08207 Sabadell, Barcelona",
-  telefono: "+34 666 123 456",
-  whatsapp: "34666123456",
+  telefono: "+34 688 323 663",
+  whatsapp: "34688323663",
   email: "info@websinexcusas.com",
   horario: "Lunes a Viernes, 9:00 - 18:00",
   redesSociales: {

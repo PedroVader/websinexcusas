@@ -1,33 +1,69 @@
 "use client";
 
-import { useActionState } from "react";
-import { submitContactForm } from "@/app/actions/contact";
+import { useState } from "react";
 import { Button } from "@/components/ui/Button";
-import type { FormContactoState } from "@/types";
-
-const initialState: FormContactoState = {
-  success: false,
-  message: "",
-};
 
 export function ContactForm() {
-  const [state, formAction, pending] = useActionState(submitContactForm, initialState);
+  const [submitted, setSubmitted] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState("");
 
-  if (state.success) {
+  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
+    e.preventDefault();
+    setSubmitting(true);
+    setError("");
+
+    const form = e.currentTarget;
+    const formData = new FormData(form);
+
+    try {
+      const res = await fetch("/", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams(formData as unknown as Record<string, string>).toString(),
+      });
+
+      if (res.ok) {
+        setSubmitted(true);
+      } else {
+        setError("Error al enviar. Inténtalo de nuevo.");
+      }
+    } catch {
+      setError("Error de conexión. Inténtalo de nuevo.");
+    } finally {
+      setSubmitting(false);
+    }
+  }
+
+  if (submitted) {
     return (
       <div className="rounded-2xl bg-success/10 p-8 text-center">
         <p className="text-xl font-bold text-success font-heading">
           ¡Mensaje enviado!
         </p>
         <p className="mt-2 text-dark-secondary">
-          {state.message}
+          Te respondemos en menos de 24 horas.
         </p>
       </div>
     );
   }
 
   return (
-    <form action={formAction} className="space-y-6">
+    <form
+      name="contacto"
+      method="POST"
+      data-netlify="true"
+      data-netlify-honeypot="bot-field"
+      onSubmit={handleSubmit}
+      className="space-y-6"
+    >
+      <input type="hidden" name="form-name" value="contacto" />
+      <p className="hidden">
+        <label>
+          No rellenar: <input name="bot-field" />
+        </label>
+      </p>
+
       <div>
         <label htmlFor="nombre" className="block text-sm font-medium text-dark mb-1">
           Nombre *
@@ -37,12 +73,10 @@ export function ContactForm() {
           id="nombre"
           name="nombre"
           required
+          minLength={2}
           className="w-full rounded-lg border border-gray-300 px-4 py-3 text-dark focus:border-brand focus:ring-1 focus:ring-brand outline-none"
           placeholder="Tu nombre"
         />
-        {state.errors?.nombre && (
-          <p className="mt-1 text-sm text-red-600">{state.errors.nombre[0]}</p>
-        )}
       </div>
 
       <div>
@@ -57,9 +91,6 @@ export function ContactForm() {
           className="w-full rounded-lg border border-gray-300 px-4 py-3 text-dark focus:border-brand focus:ring-1 focus:ring-brand outline-none"
           placeholder="tu@email.com"
         />
-        {state.errors?.email && (
-          <p className="mt-1 text-sm text-red-600">{state.errors.email[0]}</p>
-        )}
       </div>
 
       <div>
@@ -71,12 +102,10 @@ export function ContactForm() {
           id="telefono"
           name="telefono"
           required
+          minLength={9}
           className="w-full rounded-lg border border-gray-300 px-4 py-3 text-dark focus:border-brand focus:ring-1 focus:ring-brand outline-none"
           placeholder="600 123 456"
         />
-        {state.errors?.telefono && (
-          <p className="mt-1 text-sm text-red-600">{state.errors.telefono[0]}</p>
-        )}
       </div>
 
       <div>
@@ -91,17 +120,14 @@ export function ContactForm() {
           className="w-full rounded-lg border border-gray-300 px-4 py-3 text-dark focus:border-brand focus:ring-1 focus:ring-brand outline-none resize-none"
           placeholder="Cuéntanos qué necesitas..."
         />
-        {state.errors?.mensaje && (
-          <p className="mt-1 text-sm text-red-600">{state.errors.mensaje[0]}</p>
-        )}
       </div>
 
-      {state.message && !state.success && (
-        <p className="text-sm text-red-600">{state.message}</p>
+      {error && (
+        <p className="text-sm text-red-600">{error}</p>
       )}
 
-      <Button type="submit" variant="primary" className="w-full" disabled={pending}>
-        {pending ? "Enviando..." : "Enviar Mensaje"}
+      <Button type="submit" variant="primary" className="w-full" disabled={submitting}>
+        {submitting ? "Enviando..." : "Enviar Mensaje"}
       </Button>
     </form>
   );
