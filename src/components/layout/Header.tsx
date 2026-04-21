@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { Button } from "@/components/ui/Button";
 import { ServiciosDropdown } from "./ServiciosDropdown";
 import { MobileMenu } from "./MobileMenu";
@@ -15,9 +16,14 @@ export function Header() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
-            <span className="text-xl font-bold font-heading text-dark">
-              Web <span className="text-brand">Sin Excusas</span>
-            </span>
+            <Image
+              src="/logo.png"
+              alt="Web Sin Excusas"
+              width={180}
+              height={40}
+              className="h-8 w-auto"
+              priority
+            />
           </Link>
 
           <nav className="hidden lg:flex items-center gap-8">

@@ -14,7 +14,7 @@ import { servicios } from "@/data/servicios";
 export const metadata: Metadata = generatePageMetadata({
   title: "Servicios de Diseño Web y SEO Local",
   description:
-    "Diseño web profesional, SEO local, mantenimiento web y Google Ads para negocios de la provincia de Barcelona. Desde 490€.",
+    "Diseño web profesional, SEO local, mantenimiento web y Google Ads para negocios de la provincia de Barcelona. Desde 590€.",
   path: "/servicios",
 });
 

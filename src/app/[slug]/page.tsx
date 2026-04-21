@@ -47,14 +47,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!municipio) return {};
 
   return {
-    title: `Diseño Web en ${municipio.nombre} · Webs Profesionales desde 490€`,
-    description: `Diseño web profesional en ${municipio.nombre} (${municipio.comarca}). Creamos webs que aparecen en Google y traen clientes a tu negocio. Desde 490€. Entrega en 2-3 semanas.`,
+    title: `Diseño Web en ${municipio.nombre} · Webs Profesionales desde 590€`,
+    description: `Diseño web profesional en ${municipio.nombre} (${municipio.comarca}). Creamos webs que aparecen en Google y traen clientes a tu negocio. Desde 590€. Entrega en 2-3 semanas.`,
     alternates: {
       canonical: `${siteConfig.url}/diseno-web-${municipio.slug}`,
     },
     openGraph: {
       title: `Diseño Web en ${municipio.nombre} — ${siteConfig.name}`,
-      description: `Webs profesionales para negocios de ${municipio.nombre}. Desde 490€.`,
+      description: `Webs profesionales para negocios de ${municipio.nombre}. Desde 590€.`,
       url: `${siteConfig.url}/diseno-web-${municipio.slug}`,
       siteName: siteConfig.name,
       locale: "es_ES",
@@ -98,7 +98,7 @@ export default async function MunicipioPage({ params }: PageProps) {
         serviceName={`Diseño Web en ${municipio.nombre}`}
         description={`Servicio de diseño web profesional para negocios de ${municipio.nombre}, ${municipio.comarca}.`}
         areaServed={municipio.nombre}
-        priceFrom="490"
+        priceFrom="590"
         faqs={faqs}
       />
       <JsonLd data={breadcrumbSchema} />
@@ -108,7 +108,7 @@ export default async function MunicipioPage({ params }: PageProps) {
         badge={`${municipio.comarca} · ${municipio.distanciaBcn}`}
         title={`Diseño Web en ${municipio.nombre}.`}
         highlight="Sin Excusas."
-        subtitle={`Creamos webs profesionales para negocios de ${municipio.nombre} que quieren captar más clientes por internet. Desde 490€. Entrega en 2-3 semanas.`}
+        subtitle={`Creamos webs profesionales para negocios de ${municipio.nombre} que quieren captar más clientes por internet. Desde 590€. Entrega en 2-3 semanas.`}
         bgImage="/images/hero-bg.jpg"
         badges={[
           { src: "/logos/google-partner.png", alt: "Google Partner", width: 80, height: 80 },

@@ -13,9 +13,9 @@ import { preciosWeb } from "@/data/precios";
 import { faqsGenerales } from "@/lib/faq-templates";
 
 export const metadata: Metadata = generatePageMetadata({
-  title: "Diseño Web Profesional · Webs desde 490€",
+  title: "Diseño Web Profesional · Webs desde 590€",
   description:
-    "Diseño web profesional para negocios de Barcelona. Webs rápidas, responsive y optimizadas para Google. Desde 490€ con entrega en 10-21 días.",
+    "Diseño web profesional para negocios de Barcelona. Webs rápidas, responsive y optimizadas para Google. Desde 590€ con entrega en 10-21 días.",
   path: "/servicios/diseno-web",
 });
 
@@ -26,7 +26,7 @@ export default function DisenoWebPage() {
         serviceName="Diseño Web Profesional"
         description="Diseño y desarrollo de páginas web profesionales para negocios locales de la provincia de Barcelona."
         areaServed="Provincia de Barcelona"
-        priceFrom="490"
+        priceFrom="590"
         faqs={faqsGenerales}
       />
 
@@ -34,7 +34,7 @@ export default function DisenoWebPage() {
         badge="Servicio principal"
         title="Diseño Web Profesional"
         highlight="para tu negocio"
-        subtitle="No hacemos webs bonitas que nadie ve. Hacemos webs que aparecen en Google y traen clientes. Desde 490€, en 2-3 semanas."
+        subtitle="No hacemos webs bonitas que nadie ve. Hacemos webs que aparecen en Google y traen clientes. Desde 590€, en 2-3 semanas."
         bgImage="/images/servicio-code.jpg"
       />
 

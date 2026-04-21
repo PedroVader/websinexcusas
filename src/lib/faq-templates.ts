@@ -8,7 +8,7 @@ export const faqsGenerales: FAQ[] = [
   {
     pregunta: "¿Cuánto cuesta una página web profesional?",
     respuesta:
-      "Nuestros precios empiezan desde 490€ para una web one-page hasta 1.990€ para una web completa con tienda online. Cada plan incluye diseño responsive, SSL y optimización básica de SEO.",
+      "Nuestros precios empiezan desde 590€ para una web one-page hasta 2.490€ para una web completa con tienda online. Cada plan incluye diseño responsive, SSL y optimización básica de SEO.",
   },
   {
     pregunta: "¿Cuánto tarda en estar lista la web?",

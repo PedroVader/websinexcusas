@@ -8,7 +8,7 @@ export const servicios: Servicio[] = [
       "Creamos páginas web profesionales que convierten visitantes en clientes. Diseño moderno, rápido y optimizado para Google. En 2-3 semanas tienes tu web online.",
     descripcionCorta: "Webs profesionales que traen clientes",
     icono: "monitor",
-    precioDesde: "490€",
+    precioDesde: "590€",
     caracteristicas: [
       "Diseño responsive (móvil, tablet, escritorio)",
       "Optimizada para velocidad y SEO",

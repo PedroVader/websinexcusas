@@ -36,7 +36,7 @@ export default function Home() {
         badge="Agencia Web en Barcelona"
         title="Tu negocio merece estar online."
         highlight="Sin excusas."
-        subtitle="Diseñamos webs profesionales para negocios locales de la provincia de Barcelona. Webs que aparecen en Google y traen clientes. Desde 490€."
+        subtitle="Diseñamos webs profesionales para negocios locales de la provincia de Barcelona. Webs que aparecen en Google y traen clientes. Desde 590€."
         bgImage="/images/hero-bg.jpg"
         badges={[
           { src: "/logos/google-partner.png", alt: "Google Partner", width: 80, height: 80 },

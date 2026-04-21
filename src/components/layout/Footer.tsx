@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { siteConfig } from "@/data/site";
 import municipiosData from "@/data/municipios.json";
 
@@ -9,9 +10,13 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
           {/* Brand */}
           <div>
-            <span className="text-xl font-bold font-heading">
-              Web <span className="text-brand">Sin Excusas</span>
-            </span>
+            <Image
+              src="/logo.png"
+              alt="Web Sin Excusas"
+              width={180}
+              height={40}
+              className="h-8 w-auto brightness-0 invert"
+            />
             <p className="mt-4 text-gray-400 text-sm">
               {siteConfig.tagline}
             </p>
@@ -112,9 +117,17 @@ export function Footer() {
           <p className="text-gray-500 text-sm">
             © {new Date().getFullYear()} {siteConfig.name}. Todos los derechos reservados.
           </p>
-          <p className="text-gray-500 text-sm">
-            {siteConfig.empresa} · {siteConfig.sede}
-          </p>
+          <div className="flex items-center gap-4 text-gray-500 text-sm">
+            <Link href="/aviso-legal" className="hover:text-brand transition-colors">
+              Aviso Legal
+            </Link>
+            <Link href="/politica-privacidad" className="hover:text-brand transition-colors">
+              Privacidad
+            </Link>
+            <Link href="/politica-cookies" className="hover:text-brand transition-colors">
+              Cookies
+            </Link>
+          </div>
         </div>
       </div>
     </footer>

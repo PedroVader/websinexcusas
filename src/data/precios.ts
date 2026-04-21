@@ -3,7 +3,7 @@ import type { PlanPrecio } from "@/types";
 export const preciosWeb: PlanPrecio[] = [
   {
     nombre: "Sin Excusas Starter",
-    precio: "490€",
+    precio: "590€",
     descripcion: "Ideal para empezar. Tu web profesional en 10 días.",
     caracteristicas: [
       "Web one-page responsive",
@@ -17,7 +17,7 @@ export const preciosWeb: PlanPrecio[] = [
   },
   {
     nombre: "Sin Excusas Pro",
-    precio: "990€",
+    precio: "1.190€",
     descripcion: "La más elegida. Web completa con SEO incluido.",
     caracteristicas: [
       "Web 5-7 páginas",
@@ -32,7 +32,7 @@ export const preciosWeb: PlanPrecio[] = [
   },
   {
     nombre: "Sin Excusas Total",
-    precio: "1.990€",
+    precio: "2.490€",
     descripcion: "Para negocios que van en serio. Todo incluido.",
     caracteristicas: [
       "Web completa a medida",

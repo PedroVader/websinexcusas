@@ -8,7 +8,7 @@ const serviciosNav = [
     slug: "diseno-web",
     nombre: "Diseño Web",
     descripcionCorta: "Webs profesionales que traen clientes",
-    precioDesde: "490€",
+    precioDesde: "590€",
     icon: (
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
         <rect x="2" y="3" width="20" height="14" rx="2" />
