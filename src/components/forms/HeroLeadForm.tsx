@@ -1,41 +1,15 @@
 "use client";
 
-import { useState } from "react";
+import { useActionState } from "react";
+import { submitHeroLead } from "@/app/actions/hero-lead";
 import { servicios } from "@/data/servicios";
 
+const initialState = { success: false, message: "" };
+
 export function HeroLeadForm() {
-  const [submitted, setSubmitted] = useState(false);
-  const [submitting, setSubmitting] = useState(false);
-  const [error, setError] = useState("");
+  const [state, formAction, pending] = useActionState(submitHeroLead, initialState);
 
-  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
-    e.preventDefault();
-    setSubmitting(true);
-    setError("");
-
-    const form = e.currentTarget;
-    const formData = new FormData(form);
-
-    try {
-      const res = await fetch("/", {
-        method: "POST",
-        headers: { "Content-Type": "application/x-www-form-urlencoded" },
-        body: new URLSearchParams(formData as unknown as Record<string, string>).toString(),
-      });
-
-      if (res.ok) {
-        setSubmitted(true);
-      } else {
-        setError("Error al enviar. Inténtalo de nuevo.");
-      }
-    } catch {
-      setError("Error de conexión. Inténtalo de nuevo.");
-    } finally {
-      setSubmitting(false);
-    }
-  }
-
-  if (submitted) {
+  if (state.success) {
     return (
       <div className="rounded-2xl bg-white/10 backdrop-blur-sm border border-white/20 p-8 text-center">
         <div className="text-4xl mb-3">&#10003;</div>
@@ -51,20 +25,9 @@ export function HeroLeadForm() {
 
   return (
     <form
-      name="hero-lead"
-      method="POST"
-      data-netlify="true"
-      data-netlify-honeypot="bot-field"
-      onSubmit={handleSubmit}
+      action={formAction}
       className="rounded-2xl bg-white/10 backdrop-blur-sm border border-white/20 p-6 sm:p-8"
     >
-      <input type="hidden" name="form-name" value="hero-lead" />
-      <p className="hidden">
-        <label>
-          No rellenar: <input name="bot-field" />
-        </label>
-      </p>
-
       <p className="text-base sm:text-lg font-bold font-heading mb-1">
         Pide tu presupuesto gratis
       </p>
@@ -140,16 +103,16 @@ export function HeroLeadForm() {
         </label>
       </div>
 
-      {error && (
-        <p className="mt-3 text-sm text-red-400">{error}</p>
+      {state.message && !state.success && (
+        <p className="mt-3 text-sm text-red-400">{state.message}</p>
       )}
 
       <button
         type="submit"
-        disabled={submitting}
+        disabled={pending}
         className="mt-4 sm:mt-6 w-full rounded-lg bg-brand text-dark font-bold py-2.5 sm:py-3 px-6 hover:bg-brand-dark transition-colors duration-200 disabled:opacity-50 cursor-pointer text-sm"
       >
-        {submitting ? "Enviando..." : "Quiero mi presupuesto →"}
+        {pending ? "Enviando..." : "Quiero mi presupuesto →"}
       </button>
 
       <p className="mt-3 text-xs text-gray-500 text-center">

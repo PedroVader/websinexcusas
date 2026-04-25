@@ -1,6 +1,7 @@
 "use server";
 
 import { presupuestoFormSchema } from "@/lib/schemas";
+import { resend, contactEmail } from "@/lib/resend";
 import type { FormPresupuestoState } from "@/types";
 
 export async function submitPresupuestoForm(
@@ -27,8 +28,35 @@ export async function submitPresupuestoForm(
     };
   }
 
-  // In production, send email via Resend or similar service
-  console.log("Quote form submission:", result.data);
+  const { nombre, email, telefono, municipio, tipoNegocio, tieneWeb, mensaje } = result.data;
+
+  const tieneWebLabel =
+    tieneWeb === "si" ? "Sí" : tieneWeb === "no" ? "No" : "No está seguro";
+
+  const { error } = await resend.emails.send({
+    from: "Web Sin Excusas <onboarding@resend.dev>",
+    to: contactEmail,
+    replyTo: email,
+    subject: `Nuevo presupuesto: ${nombre} — ${tipoNegocio} en ${municipio}`,
+    html: `
+      <h2>Nueva solicitud de presupuesto</h2>
+      <p><strong>Nombre:</strong> ${nombre}</p>
+      <p><strong>Email:</strong> ${email}</p>
+      <p><strong>Teléfono:</strong> ${telefono}</p>
+      <p><strong>Municipio:</strong> ${municipio}</p>
+      <p><strong>Tipo de negocio:</strong> ${tipoNegocio}</p>
+      <p><strong>¿Tiene web?:</strong> ${tieneWebLabel}</p>
+      ${mensaje ? `<p><strong>Mensaje:</strong></p><p>${mensaje}</p>` : ""}
+    `,
+  });
+
+  if (error) {
+    console.error("Resend error:", error);
+    return {
+      success: false,
+      message: "Error al enviar la solicitud. Inténtalo de nuevo.",
+    };
+  }
 
   return {
     success: true,
