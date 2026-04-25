@@ -5,10 +5,12 @@ import { Hero } from "@/components/sections/Hero";
 import { Container } from "@/components/ui/Container";
 import { Breadcrumbs } from "@/components/layout/Breadcrumbs";
 import { Card } from "@/components/ui/Card";
+import { FAQ } from "@/components/ui/FAQ";
 import { CTABanner } from "@/components/sections/CTABanner";
 import { ServiceSchema } from "@/components/seo/ServiceSchema";
 import { Icon } from "@/components/ui/Icon";
 import type { IconName } from "@/components/ui/Icon";
+import { faqsMantenimiento } from "@/lib/faq-templates";
 
 export const metadata: Metadata = generatePageMetadata({
   title: "Mantenimiento Web · Desde 50€/mes",
@@ -58,6 +60,7 @@ export default function MantenimientoWebPage() {
         description="Servicio de mantenimiento web profesional con actualizaciones, backups y soporte técnico."
         areaServed="Provincia de Barcelona"
         priceFrom="50"
+        faqs={faqsMantenimiento}
       />
 
       <Hero
@@ -94,6 +97,22 @@ export default function MantenimientoWebPage() {
                 compatibilidad... Son cosas que no ves, pero que si fallan, tus
                 clientes sí lo notan. Y se van.
               </p>
+              <p>
+                ¿Cuánto cuesta mantener una web? Menos de lo que crees, y mucho
+                menos de lo que cuesta arreglar los problemas cuando no la mantienes.
+                Nuestro servicio de mantenimiento web cubre todo lo necesario
+                por 50€/mes: desde las actualizaciones de seguridad hasta el
+                soporte técnico directo por WhatsApp. Sin permanencia, sin
+                sorpresas.
+              </p>
+              <p>
+                Piénsalo así: tu web es tu escaparate digital. Si la puerta de
+                tu tienda estuviera rota, ¿la dejarías así? Una web lenta, con
+                errores o con el certificado de seguridad caducado transmite
+                exactamente eso: dejadez. Y los clientes lo notan. Google
+                también: penaliza las webs lentas e inseguras bajándolas en
+                los resultados de búsqueda.
+              </p>
             </div>
           </div>
 
@@ -106,8 +125,132 @@ export default function MantenimientoWebPage() {
               </Card>
             ))}
           </div>
+        </Container>
+      </section>
 
-          <div className="mt-16 max-w-2xl mx-auto text-center">
+      <section className="py-16 bg-light">
+        <Container>
+          <div className="max-w-3xl mx-auto">
+            <h2 className="text-3xl font-bold font-heading mb-6">
+              Qué incluye el mantenimiento web paso a paso
+            </h2>
+            <div className="prose prose-lg text-dark-secondary space-y-4">
+              <p>
+                Nuestro servicio de mantenimiento no es un &quot;ya te llamamos
+                si pasa algo&quot;. Es un trabajo proactivo y continuo para que
+                tu web nunca te dé problemas:
+              </p>
+              <ol className="space-y-4 list-none pl-0">
+                <li>
+                  <strong>Cada día:</strong> Ejecutamos copias de seguridad
+                  automáticas y monitorizamos que tu web esté online y
+                  accesible. Si detectamos una caída, actuamos antes de que
+                  afecte a tus clientes.
+                </li>
+                <li>
+                  <strong>Cada semana:</strong> Revisamos y aplicamos
+                  actualizaciones de seguridad del CMS, plugins y dependencias.
+                  Verificamos que no haya errores de compatibilidad tras cada
+                  actualización.
+                </li>
+                <li>
+                  <strong>Cada mes:</strong> Analizamos el rendimiento de tu
+                  web (velocidad, errores, tráfico), realizamos las pequeñas
+                  modificaciones que necesites (textos, fotos, ajustes) y te
+                  enviamos un informe detallado del estado de tu web.
+                </li>
+                <li>
+                  <strong>Cuando lo necesites:</strong> Soporte técnico
+                  prioritario por WhatsApp y email con respuesta en menos de
+                  4 horas laborables. Si algo falla, lo arreglamos. Si tienes
+                  una duda, te la resolvemos.
+                </li>
+              </ol>
+            </div>
+          </div>
+        </Container>
+      </section>
+
+      <section className="py-16">
+        <Container>
+          <div className="max-w-3xl mx-auto">
+            <h2 className="text-3xl font-bold font-heading mb-6">
+              Caso real: una web hackeada que costó 1.200€
+            </h2>
+            <div className="prose prose-lg text-dark-secondary space-y-4">
+              <p>
+                <strong>El problema:</strong> Un restaurante en Badalona dejó
+                su web WordPress sin actualizar durante 14 meses. Un día,
+                Google la marcó como &quot;sitio peligroso&quot; y dejó de
+                mostrarla en los resultados. La web había sido infectada con
+                malware que redirigía a los visitantes a páginas fraudulentas.
+                El dueño ni se había enterado.
+              </p>
+              <p>
+                <strong>Lo que costó arreglarlo:</strong> 800€ en limpieza de
+                malware y restauración, 400€ en rediseño parcial (parte de la
+                web se había corrompido y no había backups), más 3 semanas sin
+                aparecer en Google hasta que se levantó la penalización manual.
+                Total: 1.200€ + incontables clientes perdidos durante 3 semanas.
+              </p>
+              <p>
+                <strong>Lo que habría costado prevenirlo:</strong> 50€/mes de
+                mantenimiento. En 14 meses, 700€. Menos de lo que costó el
+                arreglo. Y sin perder un solo día de visibilidad en Google.
+                Desde entonces, este cliente tiene contratado nuestro
+                mantenimiento. No ha vuelto a tener un solo problema.
+              </p>
+            </div>
+          </div>
+        </Container>
+      </section>
+
+      <section className="py-16 bg-light">
+        <Container>
+          <div className="max-w-3xl mx-auto">
+            <h2 className="text-3xl font-bold font-heading mb-6">
+              Mantenimiento web: inversión vs riesgo
+            </h2>
+            <div className="prose prose-lg text-dark-secondary space-y-4">
+              <p>
+                ¿Por qué necesitas mantenimiento web si tu web &quot;ya
+                funciona&quot;? Porque los costes de NO mantenerla superan
+                con creces los 50€/mes de prevención:
+              </p>
+              <ul className="space-y-2">
+                <li>
+                  <strong>Web hackeada:</strong> Desde 300€ en limpieza +
+                  pérdida de posicionamiento en Google durante semanas.
+                </li>
+                <li>
+                  <strong>Web caída sin backup:</strong> Desde 500€ en
+                  reconstrucción si no hay copia de seguridad reciente.
+                </li>
+                <li>
+                  <strong>SSL caducado:</strong> Los navegadores muestran
+                  &quot;sitio no seguro&quot; y tus visitantes huyen. Google
+                  baja tu posicionamiento.
+                </li>
+                <li>
+                  <strong>Web lenta por falta de optimización:</strong> Cada
+                  segundo extra de carga reduce las conversiones un 7%.
+                  Los clientes no esperan.
+                </li>
+              </ul>
+              <p>
+                El mantenimiento web no es un gasto: es un seguro para tu
+                inversión digital. 50€/mes por la tranquilidad de saber que
+                tu web siempre está actualizada, segura y funcionando. Sin
+                permanencia: si no ves el valor, cancelas y listo.
+              </p>
+            </div>
+          </div>
+        </Container>
+      </section>
+
+      <section className="py-16">
+        <Container>
+          <div className="mt-0 max-w-2xl mx-auto text-center">
             <div className="rounded-2xl bg-dark text-light p-8">
               <h3 className="text-2xl font-bold font-heading">
                 Mantenimiento Web
@@ -128,6 +271,15 @@ export default function MantenimientoWebPage() {
               </ul>
             </div>
           </div>
+        </Container>
+      </section>
+
+      <section className="py-20 bg-light">
+        <Container>
+          <FAQ
+            faqs={faqsMantenimiento}
+            title="Preguntas Frecuentes sobre Mantenimiento Web"
+          />
         </Container>
       </section>
 
